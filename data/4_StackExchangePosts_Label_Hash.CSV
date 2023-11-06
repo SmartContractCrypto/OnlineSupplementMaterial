@@ -1,0 +1,244 @@
+Question,Obstacle
+https://ethereum.stackexchange.com/questions/67963/verify-a-block-exists,N/A
+https://ethereum.stackexchange.com/questions/112203/obfuscate-tx-input-data-by-hashing-and-hardcoding-salt-in-contract,Knowledge
+https://ethereum.stackexchange.com/questions/106876/would-this-be-a-good-choice,Security
+https://ethereum.stackexchange.com/questions/53121/go-ethereum-keccak256-multi-value-byte-slice-does-not-match-solidity-keccak256,Crypto API Usage
+https://ethereum.stackexchange.com/questions/78995/sharing-an-verifiable-secret-message-in-a-contract,Roadmap Identification
+https://stackoverflow.com/questions/51567332/solidity-mapping-returning-null-values,N/A
+https://stackoverflow.com/questions/70630154/why-is-blockhash-not-safe-for-random-numbers,Security
+https://stackoverflow.com/questions/45008924/storage-in-the-blockchain,N/A
+https://ethereum.stackexchange.com/questions/12667/how-to-sha3-strings-and-integers-with-javascript,N/A
+https://stackoverflow.com/questions/69364059/get-hashmessage-in-java-kotlin-same-like-in-solidity,Crypto API Usage
+https://stackoverflow.com/questions/73597585/i-cant-figure-out-what-i-am-doing-wrong-in-the-smart-contract-i-am-writing-it,N/A
+https://ethereum.stackexchange.com/questions/50551/solidity-how-to-get-a-bytes32-keccak256-hash-of-an-address-and-2-uint256-variab,Crypto API Usage
+https://stackoverflow.com/questions/75648810/expected-identifier-but-got-number,Crypto API Usage
+https://ethereum.stackexchange.com/questions/106752/include-library-function-without-function-body,N/A
+https://ethereum.stackexchange.com/questions/25945/call-write-function-which-doesnt-change-contract-value,N/A
+https://ethereum.stackexchange.com/questions/19102/are-future-block-hashes-viable-as-an-rng,Security
+https://ethereum.stackexchange.com/questions/50585/can-anyone-explain-the-format-of-this-input-string-to-a-function,N/A
+https://stackoverflow.com/questions/72972918/transfering-erc-20-in-hedera-hashgraph,N/A
+https://ethereum.stackexchange.com/questions/109303/decompiling-the-contract-with-keccak-function,N/A
+https://stackoverflow.com/questions/69413155/how-can-upload-metadata-json-to-ipfs-by-javascript-codes-and-how-can-programatic,N/A
+https://ethereum.stackexchange.com/questions/21483/why-contract-is-not-working-on-test-net-but-work-in-remix,N/A
+https://ethereum.stackexchange.com/questions/47876/is-it-legal-to-include-arbitrary-bytes-at-the-end-of-the-data-section-executing,N/A
+https://ethereum.stackexchange.com/questions/145423/calldata-ambiguity-likelihood-of-hash-collision,Security
+https://ethereum.stackexchange.com/questions/138530/how-to-filter-and-query-transaction-from-smart-contract,N/A
+https://ethereum.stackexchange.com/questions/123892/different-keccak256-for-the-same-string,Crypto API Usage
+https://ethereum.stackexchange.com/questions/77604/solidity-concatenate-hash-w-address-typeerror-operator-not-compatible-with,Crypto API Usage
+https://ethereum.stackexchange.com/questions/11914/blockhash-compression-problem-inside-a-contract-block-blockhashblocknumber-re,N/A
+https://stackoverflow.com/questions/49793487/how-to-get-keccak256-hash-in-solidity,Crypto API Usage
+https://stackoverflow.com/questions/56124326/how-to-decode-sha256-hash-value-and-retrieve-data-in-solidity,Knowledge
+https://ethereum.stackexchange.com/questions/109973/getting-the-same-hashes-on-the-web3-and-solidity-side,Crypto API Usage
+https://ethereum.stackexchange.com/questions/86737/how-to-get-data-location-for-string-31-length,N/A
+https://ethereum.stackexchange.com/questions/23679/callback-contain-no-result-error-error-ethjs-query-while-formatting-outputs,N/A
+https://ethereum.stackexchange.com/questions/134896/error-from-solidityparsererror-expected-identifier-but-got-occurs-whenev,N/A
+https://ethereum.stackexchange.com/questions/50740/compare-byte32-keccak256-to-the-same-keccak256-stored-in-a-byte32-array,N/A
+https://ethereum.stackexchange.com/questions/31683/what-is-the-recommended-way-to-interact-with-smart-contracts-in-meteor,N/A
+https://ethereum.stackexchange.com/questions/78394/unable-to-store-hash-in-blockchain,N/A
+https://ethereum.stackexchange.com/questions/31636/custom-token-transfer-what-am-i-doing-wrong,N/A
+https://ethereum.stackexchange.com/questions/53121/go-ethereum-keccak256-multi-value-byte-slice-does-not-match-solidity-keccak256,Crypto API Usage
+https://ethereum.stackexchange.com/questions/82797/sha256-and-abi-encode-of-number,Crypto API Usage
+https://ethereum.stackexchange.com/questions/55461/how-to-store-storage-trie-in-leveldb,N/A
+https://stackoverflow.com/questions/72426915/where-and-how-does-blockchain-gets-stored,N/A
+https://ethereum.stackexchange.com/questions/132442/why-does-web3j-and-javascript-keccak256-return-different-hashes-if-390x39,N/A
+https://ethereum.stackexchange.com/questions/50740/compare-byte32-keccak256-to-the-same-keccak256-stored-in-a-byte32-array,Crypto API Usage
+https://ethereum.stackexchange.com/questions/15886/ethereum-contract-testing,N/A
+https://ethereum.stackexchange.com/questions/62382/does-web3-soliditysha3-work-with-json-object,N/A
+https://ethereum.stackexchange.com/questions/137411/how-is-smart-contracts-hash-id-is-made-is-it-a-random-string-assigned-to-a-sm,N/A
+https://ethereum.stackexchange.com/questions/51017/how-to-use-bytes-to-get-the-same-hashed-output,Crypto API Usage
+https://ethereum.stackexchange.com/questions/52824/convert-hash-function-hex-to-bytes32,Crypto API Usage
+https://ethereum.stackexchange.com/questions/73732/how-can-i-store-multiple-strings-mapped-to-an-address-in-smart-contract-solidit,N/A
+https://ethereum.stackexchange.com/questions/56694/calling-transfer-function-of-an-erc-20-contract,N/A
+https://ethereum.stackexchange.com/questions/47785/how-can-i-return-a-hash-value-using-keccak256,Crypto API Usage
+https://ethereum.stackexchange.com/questions/139511/should-you-use-keecak256-to-hash-labels-in-ens,Crypto API Usage
+https://stackoverflow.com/questions/73594264/solidity-question-on-transfers-and-hashing,Crypto API Usage
+https://ethereum.stackexchange.com/questions/138530/how-to-filter-and-query-transaction-from-smart-contract,N/A
+https://stackoverflow.com/questions/70117341/how-to-get-informative-data-in-smart-contract-with-using-api-in-r,N/A
+https://stackoverflow.com/questions/42520069/handling-user-profiles-in-ethereum-dapps,N/A
+https://stackoverflow.com/questions/50648241/solidity-invalid-address-errors,N/A
+https://ethereum.stackexchange.com/questions/109973/getting-the-same-hashes-on-the-web3-and-solidity-side,Crypto API Usage
+https://stackoverflow.com/questions/67452880/understanding-blockchain-smart-contract,N/A
+https://stackoverflow.com/questions/75419829/having-issue-calculating-the-merkle-proof-with-just-these-given-parameters,N/A
+https://ethereum.stackexchange.com/questions/79725/solidity-keccak-behavior,Crypto API Usage
+https://ethereum.stackexchange.com/questions/6571/looking-for-working-example-of-web3-getstorageat-api-usage,N/A
+https://ethereum.stackexchange.com/questions/4134/xor-bytes32-from-web3-sha3-in-javascript,N/A
+https://ethereum.stackexchange.com/questions/56882/is-data-stored-in-string-form-in-smart-contracts-publicly-readable,N/A
+https://ethereum.stackexchange.com/questions/131227/missing-encodepacket-abi-keccak256,Crypto API Usage
+https://ethereum.stackexchange.com/questions/112067/which-of-abi-encodepacked-and-abi-encode-was-standard-in-solidity-compiler-befor,Crypto API Usage
+https://ethereum.stackexchange.com/questions/123641/hash-file-model-machine-learning-algorithm,Roadmap Identification
+https://ethereum.stackexchange.com/questions/82163/how-to-access-data-stored-in-ethereum-blockchain-using-smart-contract,N/A
+https://ethereum.stackexchange.com/questions/71929/exploiting-keccak-for-random-number-generation,Security
+https://ethereum.stackexchange.com/questions/43381/ipfs-conditional-access-control-through-ethereum-smart-contracts,N/A
+https://ethereum.stackexchange.com/questions/45734/why-do-people-hash-the-address,Crypto API Usage
+https://ethereum.stackexchange.com/questions/11375/accessing-to-a-dynamically-sized-array-value-in-a-contract,N/A
+https://ethereum.stackexchange.com/questions/68443/is-pre-0-5-0-keccak256a-b-equivalent-to-post-0-5-0-keccak256abi-encodepacked,Crypto API Usage
+https://ethereum.stackexchange.com/questions/13741/how-does-keccak256-concatenate-values-inside-a-solidity-smart-contract,Crypto API Usage
+https://stackoverflow.com/questions/71313598/smart-contract-with-brownie-gives-virtualmachineerror,N/A
+https://stackoverflow.com/questions/71260373/how-does-the-modulus-shorten-a-number-to-only-16-digits-in-this-example,Crypto API Usage
+https://stackoverflow.com/questions/49258065/unable-to-get-a-mapping-value,N/A
+https://ethereum.stackexchange.com/questions/38169/horrible-documentation-better-solidity-documentation-location,N/A
+https://ethereum.stackexchange.com/questions/144680/what-is-the-best-way-to-compress-decompress-data-within-a-solidity-smart-contrac,Knowledge
+https://stackoverflow.com/questions/46176184/how-an-array-is-tightly-packed-in-solidity,Crypto API Usage
+https://stackoverflow.com/questions/55607372/error-the-transaction-has-been-reverted-to-the-initial-state,N/A
+https://ethereum.stackexchange.com/questions/2527/is-there-a-way-to-find-an-accounts-current-transaction-nonce,N/A
+https://stackoverflow.com/questions/68496585/retrieve-argument-pass-to-constructor,N/A
+https://ethereum.stackexchange.com/questions/38147/storing-ipfs-hash-in-solidity,N/A
+https://ethereum.stackexchange.com/questions/113414/erc1155-passing-user-defined-tokenuri-on-the-mint-process,N/A
+https://ethereum.stackexchange.com/questions/145299/to-hash-or-not-to-hash-strings-for-bytes32-accesscontrol-roles,Template Usage
+https://ethereum.stackexchange.com/questions/9175/concealing-sensitive-data-in-a-public-contract,Security
+https://ethereum.stackexchange.com/questions/115334/using-provenance-hash-function-for-nft-project,N/A
+https://ethereum.stackexchange.com/questions/21578/accepting-map-or-json-in-a-constructor-or-method,N/A
+https://ethereum.stackexchange.com/questions/64942/for-recipient-how-do-i-store-sender39s-account-address-and-password-of-recipi,N/A
+https://ethereum.stackexchange.com/questions/559/why-aren39t-solidity-sha3-hashes-not-matching-what-other-sha3-libraries-produ,Crypto API Usage
+https://ethereum.stackexchange.com/questions/117606/why-we-use-hexff-for-genrate-the-pair-address-in-uniswapv2-library,N/A
+https://ethereum.stackexchange.com/questions/101892/solidity-compiler-hashing-function,N/A
+https://ethereum.stackexchange.com/questions/24182/calculating-sha3-of-address-in-solidity-vs-web3,Crypto API Usage
+https://stackoverflow.com/questions/73855508/user-proxy-proxies-smart-contract,N/A
+https://ethereum.stackexchange.com/questions/70069/hashnot-matching-generated-from-solidity-contract-and-web3js,Crypto API Usage
+https://stackoverflow.com/questions/74164255/x19ethereum-signed-message-n32-prefix-meaning,Knowledge
+https://stackoverflow.com/questions/67992219/what-hashing-function-does-solidity-default-compiler-use-in-remix,N/A
+https://ethereum.stackexchange.com/questions/41702/how-to-convert-a-smart-contract-into-a-library,N/A
+https://stackoverflow.com/questions/73066197/error-while-related-to-big-number-in-react-for-input-in-smart-contract-erc721,N/A
+https://ethereum.stackexchange.com/questions/134724/if-i-put-a-messages-sha256-hash-on-smart-contract-can-anyone-recoverd-the-me,Knowledge
+https://ethereum.stackexchange.com/questions/138164/metamask-estimating-gas-on-minimal-proxy,N/A
+https://stackoverflow.com/questions/69586521/truffle-testing-trying-to-use-web3-to-test-eip712-are-there-any-alternatives,N/A
+https://ethereum.stackexchange.com/questions/85131/ipfs-add-is-not-working,N/A
+https://ethereum.stackexchange.com/questions/115525/how-do-i-perform-hashtypeddatav4-on-a-struct-containing-an-array-of-structs,Roadmap Identification
+https://stackoverflow.com/questions/71102609/generating-a-random-number-from-smart-contract-using-hedera-hashgraph,Roadmap Identification
+https://ethereum.stackexchange.com/questions/54824/comparing-solidity-sha3-with-web3-sha3-inside-smart-contract,Crypto API Usage
+https://ethereum.stackexchange.com/questions/24577/writing-a-file-and-linking-to-blockchain,N/A
+https://ethereum.stackexchange.com/questions/64797/can-i-use-an-address-value-in-such-a-hash-function,Crypto API Usage
+https://ethereum.stackexchange.com/questions/10028/where-can-i-see-the-output-of-soliditys-sha3-function,N/A
+https://ethereum.stackexchange.com/questions/79758/is-there-any-security-risk-in-keccak256-stored-data-in-solidity-smart-contract,Security
+https://ethereum.stackexchange.com/questions/9999/string-and-error-new-bignumber-not-a-number,N/A
+https://ethereum.stackexchange.com/questions/91830/solidity-external-call-with-bytes4-keccak256,N/A
+https://ethereum.stackexchange.com/questions/63425/what-is-the-best-secured-way-to-let-users-interact-with-a-tokens-minting-functio,Roadmap Identification
+https://stackoverflow.com/questions/48558766/two-ways-of-getting-balance-in-solidity,N/A
+https://ethereum.stackexchange.com/questions/44762/why-would-push-in-solidity-only-push-once,N/A
+https://ethereum.stackexchange.com/questions/36138/solidity-keccak256contract-storage-initialised,N/A
+https://ethereum.stackexchange.com/questions/88150/how-do-i-read-all-of-the-data-in-a-hashmap-array-in-a-smart-contract,N/A
+https://stackoverflow.com/questions/74844825/is-there-a-way-to-consistently-find-ends-of-the-solidity-functions-in-the-corres,N/A
+https://ethereum.stackexchange.com/questions/64510/hmac-x-implementation-for-solidity,Roadmap Identification
+https://ethereum.stackexchange.com/questions/45431/how-is-a-contract-determined-to-be-erc20-compliant,N/A
+https://stackoverflow.com/questions/73657912/what-does-starknet-errorcode-entry-point-not-found-in-contract-mean,N/A
+https://ethereum.stackexchange.com/questions/72349/hash-functions-in-solidity,Roadmap Identification
+https://ethereum.stackexchange.com/questions/127573/a-reversible-hash-function-for-storage,Knowledge
+https://ethereum.stackexchange.com/questions/69427/require-that-a-variable-has-been-defined,N/A
+https://ethereum.stackexchange.com/questions/83150/how-the-contract-address-being-decide-when-deploy-it-in-another-contract,N/A
+https://stackoverflow.com/questions/47497103/what-does-mean-in-solidity,N/A
+https://ethereum.stackexchange.com/questions/112412/i-am-trying-to-addliquidity-on-uniswap-v2-but-i-am-getting-error-reason-provided,N/A
+https://ethereum.stackexchange.com/questions/67919/i-need-help-to-understand-why-a-function-call-reverted-without-any-reason,Crypto API Usage
+https://ethereum.stackexchange.com/questions/73734/how-are-we-able-to-send-512-bit-hash-as-a-bytes32-variable,Crypto API Usage
+https://ethereum.stackexchange.com/questions/61181/encrypt-data-using-public-key,Knowledge
+https://ethereum.stackexchange.com/questions/67051/what-are-differences-between-bitcoin-and-ethereum-transactions,N/A
+https://ethereum.stackexchange.com/questions/144400/possible-to-calculate-keccak256abi-encodepackedabc-in-dapp-layer,N/A
+https://ethereum.stackexchange.com/questions/113369/verifying-solidity-signature-returns-invalid-signature-with-recover,N/A
+https://ethereum.stackexchange.com/questions/8076/can-msg-data-be-used-as-an-identifier,Template Usage
+https://stackoverflow.com/questions/68729803/solidity-a-mapping-based-on-the-hash-of-a-string-value,N/A
+https://ethereum.stackexchange.com/questions/51938/can-one-safely-use-a-bitcoin-block-hash-as-a-source-of-randomness-in-an-ethereum,Security
+https://ethereum.stackexchange.com/questions/51103/what-happens-when-a-contract-has-overlapping-function-selectors,N/A
+https://stackoverflow.com/questions/48848948/how-to-generate-a-random-number-in-solidity,Roadmap Identification
+https://stackoverflow.com/questions/64378144/why-cant-i-read-this-hashmap-in-a-near-contract,N/A
+https://stackoverflow.com/questions/72824995/how-does-sha-3-work-with-mappings-in-solidity,N/A
+https://ethereum.stackexchange.com/questions/24543/how-to-limit-function-access-to-certain-frontend,N/A
+https://ethereum.stackexchange.com/questions/25570/system-for-paid-retrieval-of-secret-information-possible,N/A
+https://stackoverflow.com/questions/74153429/solidity-method-taking-in-bytes32-and-hashing-but-values-with-previous-hash-don,Crypto API Usage
+https://ethereum.stackexchange.com/questions/7511/is-the-blockhash-enough-for-a-treasure-generating-function,Security
+https://ethereum.stackexchange.com/questions/142852/rejected-transaction-shows-up-on-etherscan-says-0-spend-approved-0-gas-approved,N/A
+https://ethereum.stackexchange.com/questions/30024/how-to-keccak256-multiple-types-in-web3js-to-match-solidity-keccak256,Crypto API Usage
+https://ethereum.stackexchange.com/questions/136392/users-proxy-proxy-smart-contract,N/A
+https://ethereum.stackexchange.com/questions/80741/converting-keccak-from-old-version-pragma-solidity-0-4-19,Crypto API Usage
+https://ethereum.stackexchange.com/questions/28000/python-keccak256-hash-of-uint8-array-not-matching-solidity-hash,Crypto API Usage
+https://stackoverflow.com/questions/75120676/best-practice-for-retrieving-data-from-the-blockchain-when-data-is-hashed,N/A
+https://stackoverflow.com/questions/75188804/how-to-link-all-transactions-related-to-one-policy-number-in-blockchain,N/A
+https://stackoverflow.com/questions/75568111/can-i-merge-an-ethereum-address-ipfs-hash-and-a-random-int-32-to-a-single-uint2,Knowledge
+https://ethereum.stackexchange.com/questions/2328/is-it-possible-to-verify-ethash-pow-in-a-contract,Roadmap Identification
+https://ethereum.stackexchange.com/questions/68771/solc-build-from-source-code-failed-error-mod-is-not-a-member-of-z3,N/A
+https://ethereum.stackexchange.com/questions/6813/how-to-compute-sha-3-of-an-array-of-numbers-in-javascript,Crypto API Usage
+https://ethereum.stackexchange.com/questions/119904/is-downcasting-safe-in-solidity,N/A
+https://ethereum.stackexchange.com/questions/65076/match-web3py-hashing-function-to-solidity-hashing-function,Crypto API Usage
+https://stackoverflow.com/questions/66602944/opensea-ipfs-metadata,N/A
+https://ethereum.stackexchange.com/questions/60144/creating-hash-of-a-struct-in-solidity-and-javascript,Roadmap Identification
+https://ethereum.stackexchange.com/questions/51338/how-to-pass-and-store-more-than-16-arguments-in-a-contract,N/A
+https://ethereum.stackexchange.com/questions/65519/blockhash-refactoring-if-hashes-are-relative-to-latest-block-are-all-stored-in,N/A
+https://ethereum.stackexchange.com/questions/128112/need-help-trying-to-replicate-ethers-utils-soliditykeccak256-in-a-rails-6-contro,N/A
+https://ethereum.stackexchange.com/questions/76110/gas-cost-of-a-sha256-hash,Crypto API Usage
+https://ethereum.stackexchange.com/questions/49144/how-to-calculate-the-merkle-proof-for-quering-the-balance-of-a-token-holder,Roadmap Identification
+https://ethereum.stackexchange.com/questions/45668/how-to-pass-arguments-to-custom-struct-function-on-deployment,N/A
+https://ethereum.stackexchange.com/questions/52268/why-does-keccak256-return-bytes32-instead-of-uint256-in-solidity,Crypto API Usage
+https://ethereum.stackexchange.com/questions/90281/how-to-verify-that-a-smart-contract-was-deployed-by-us,N/A
+https://stackoverflow.com/questions/70805768/cannot-send-entire-contract-amount-to-account-in-solidity,N/A
+https://ethereum.stackexchange.com/questions/74150/different-outputs-for-keccak256-which-one-is-right,Crypto API Usage
+https://ethereum.stackexchange.com/questions/76563/function-selector-computed-differently-for-libraries,N/A
+https://ethereum.stackexchange.com/questions/976/how-to-interact-with-the-blinded-auction-contract-from-web3-js,N/A
+https://ethereum.stackexchange.com/questions/66070/calldata-with-too-many-parameters,N/A
+https://stackoverflow.com/questions/74480424/secure-http-communication-off-the-chain,N/A
+https://ethereum.stackexchange.com/questions/57840/how-to-compute-the-contract-address-from-the-transaction-hash,N/A
+https://ethereum.stackexchange.com/questions/113205/how-do-i-get-a-list-of-function-variable-hashes-from-a-already-deployed-smart-co,N/A
+https://ethereum.stackexchange.com/questions/34423/what-should-i-do-to-get-the-same-output-using-sha3-by-providing-multiple-input,Crypto API Usage
+https://ethereum.stackexchange.com/questions/32013/how-does-solidity-handle-insertion-of-duplicate-keys-in-mapping,N/A
+https://ethereum.stackexchange.com/questions/138064/different-signed-message-hash-in-python-and-solidity,Crypto API Usage
+https://ethereum.stackexchange.com/questions/61299/is-it-safe-to-use-abi-encodepacked-in-production-solidity-code,N/A
+https://ethereum.stackexchange.com/questions/131881/cannot-get-deposit-working-in-simple-weth-contract,N/A
+https://ethereum.stackexchange.com/questions/23753/save-hash-data-with-keccak-256-then-reverse-the-process-in-php,Knowledge
+https://ethereum.stackexchange.com/questions/28549/differentiate-between-an-unset-value-and-0-in-an-mapping,N/A
+https://ethereum.stackexchange.com/questions/110176/how-to-test-sending-transaction-from-zero-address-in-truffle,N/A
+https://stackoverflow.com/questions/67878529/everscale-solidity-how-to-get-hash-from-data-encoded-into-cell-tvm-hash-analog,N/A
+https://ethereum.stackexchange.com/questions/94826/how-to-use-bcrypt-in-a-smart-contract,Roadmap Identification
+https://ethereum.stackexchange.com/questions/13813/what-is-preventing-malicious-miners-stealing-data-to-steal-smart-contract-reward,N/A
+https://stackoverflow.com/questions/69916237/merkleproof-different-hashes-in-smart-contract-and-javascript,Template Usage
+https://ethereum.stackexchange.com/questions/49873/how-to-derive-the-storage-key-of-mapping-to-an-account,N/A
+https://ethereum.stackexchange.com/questions/28448/submarine-sends-and-create2,N/A
+https://ethereum.stackexchange.com/questions/26780/where-are-solidity-mappings-stored,N/A
+https://ethereum.stackexchange.com/questions/53325/give-a-certain-date-to-a-document,N/A
+https://ethereum.stackexchange.com/questions/125826/data-decryption-in-a-smart-contract,N/A
+https://ethereum.stackexchange.com/questions/69503/how-to-retrieve-contract-creation-transaction-info-for-a-particular-contract-u,N/A
+https://ethereum.stackexchange.com/questions/42043/web3js-and-keccak-different-values,Crypto API Usage
+https://ethereum.stackexchange.com/questions/28741/solidity-how-to-get-the-hash-of-head-block-in-private-chain,N/A
+https://ethereum.stackexchange.com/questions/126318/how-to-compare-two-hash-values-in-solidity,N/A
+https://stackoverflow.com/questions/38894377/how-can-i-access-the-content-of-a-hashtable-with-solidity-ethereum,N/A
+https://ethereum.stackexchange.com/questions/88012/storing-erc721-metadata-on-ipfs,N/A
+https://ethereum.stackexchange.com/questions/57239/abi-to-call-value,N/A
+https://stackoverflow.com/questions/67358997/how-to-properly-use-the-call-or-delegatecall-in-solidity,N/A
+https://ethereum.stackexchange.com/questions/41762/sha512-in-solidity-or-assembly-does-it-exist,Roadmap Identification
+https://ethereum.stackexchange.com/questions/63649/where-is-the-bytecode-of-smart-contract-stored-and-how-to-get-it-executed,N/A
+https://ethereum.stackexchange.com/questions/106407/how-can-i-get-the-hexadecimal-equivalent-for-a-method-name-in-an-ethereum-contra,N/A
+https://ethereum.stackexchange.com/questions/50596/what-s-the-point-of-checking-msg-sender%e2%89%a00-are-there-cases-where-msg-sender-can,N/A
+https://ethereum.stackexchange.com/questions/34512/after-deployment-interaction-with-functions-not-giving-desired-output-using-web,N/A
+https://stackoverflow.com/questions/71485857/how-to-create-subfolders-with-ipfs-cids,N/A
+https://ethereum.stackexchange.com/questions/66849/how-to-create-and-compare-a-32-byte-hash-of-a-string-in-solidity-0-5,Roadmap Identification
+https://stackoverflow.com/questions/46864900/send-hash-in-function-parameter,Crypto API Usage
+https://stackoverflow.com/questions/66009586/encrypting-decrypting-data-stored-on-ipfs-using-smart-contracts-as-acl,N/A
+https://ethereum.stackexchange.com/questions/41554/how-can-i-use-a-hash-function-to-generate-a-value-from-an-interval,Roadmap Identification
+https://ethereum.stackexchange.com/questions/133233/update-hashmap-within-onerc721received-with-vyper,N/A
+https://ethereum.stackexchange.com/questions/111419/can-i-store-a-truly-private-variable-with-eip712,N/A
+https://ethereum.stackexchange.com/questions/27400/hidden-gameplay-information-for-game-contract,N/A
+https://ethereum.stackexchange.com/questions/107335/java-keccak-256-hashing-implementation-of-multiple-inputs,N/A
+https://ethereum.stackexchange.com/questions/83337/how-to-get-ethereumjs-abis-soliditysha3-and-web3-sign-equivalents-in-ethersjs,Crypto API Usage
+https://ethereum.stackexchange.com/questions/33418/what-is-the-best-type-to-store-a-signature-on-chain,N/A
+https://ethereum.stackexchange.com/questions/133061/sha256-hash-from-solidity-smart-contract-doesnt-match-web3-js-hash,Crypto API Usage
+https://stackoverflow.com/questions/49439069/solidity-get-hash-number-from-string,Roadmap Identification
+https://ethereum.stackexchange.com/questions/19610/creating-a-bitcoin-brain-wallet-using-an-ethereum-contract,Knowledge
+https://ethereum.stackexchange.com/questions/31625/fair-barely-malleable-csprng-that-can-still-be-deterministic,Security
+https://ethereum.stackexchange.com/questions/111462/storage-systems-for-massive-quantities-of-data,N/A
+https://ethereum.stackexchange.com/questions/133361/block-header-hash-calculation-in-eth2,N/A
+https://ethereum.stackexchange.com/questions/60915/c-how-to-compute-keccak256-to-match-solidity,Crypto API Usage
+https://stackoverflow.com/questions/75150391/getting-block-hash-of-another-contract,N/A
+https://stackoverflow.com/questions/60589016/uibutton-action-for-each-new-swift-blockchain-smartcontract-sender-into-tablevie,N/A
+https://ethereum.stackexchange.com/questions/111909/properly-parse-contract-creation-bytecode-metadata-hash-using-cbor-module-in-npm,N/A
+https://ethereum.stackexchange.com/questions/15048/solidity-struct-initial-mapping-can-be-ignored,N/A
+https://ethereum.stackexchange.com/questions/40774/is-there-a-solidity-library-to-create-msghash,Roadmap Identification
+https://ethereum.stackexchange.com/questions/44128/searching-for-a-similar-dapp-finding-the-difference-between-datasets-using-the,Roadmap Identification
+https://ethereum.stackexchange.com/questions/28584/document-verification-smart-contract-ethereum,Roadmap Identification
+https://ethereum.stackexchange.com/questions/49951/compare-structs-and-arrays-with-keccak256-in-order-to-save-gas,Roadmap Identification
+https://ethereum.stackexchange.com/questions/55600/contract-structure-for-storing-user-application,N/A
+https://ethereum.stackexchange.com/questions/30962/dapps-ipfs-vs-smart-contracts,N/A
+https://ethereum.stackexchange.com/questions/79002/efficient-way-to-save-and-retrieve-hash-in-blockchain,N/A
+https://ethereum.stackexchange.com/questions/10108/is-it-possible-to-have-enum-as-a-mapping-key-type,N/A
+https://ethereum.stackexchange.com/questions/10173/different-hash-values-for-keccak256-functions,Crypto API Usage
+https://ethereum.stackexchange.com/questions/71017/getting-the-transaction-hash-on-function-call,N/A
+https://stackoverflow.com/questions/45325536/passing-a-hash-string-in-transaction-with-smart-contracts,N/A
+https://ethereum.stackexchange.com/questions/144677/precompiled-contracts-called-from-off-chain,Crypto API Usage
+https://ethereum.stackexchange.com/questions/7234/unable-to-understand-pow-algorithm,Knowledge
+https://ethereum.stackexchange.com/questions/34267/this-contract-does-not-implement-all-functions-and-thus-cannot-be-created,N/A
+https://ethereum.stackexchange.com/questions/9570/keccak256-error-undeclared-identifier-in-browser-solidity,Crypto API Usage

@@ -1,0 +1,41 @@
+Question,Obstacle
+https://ethereum.stackexchange.com/questions/68967/can-ethereum-verify-zk-snark-proofs,Roadmap Identification
+https://ethereum.stackexchange.com/questions/130387/create-zkproof-onchain,Knowledge
+https://ethereum.stackexchange.com/questions/35513/are-the-erc721-smart-contracts-compatible-with-zk-snarks,Knowledge
+https://ethereum.stackexchange.com/questions/73409/why-is-not-a-protocol-with-a-turing-complete-smart-contract-language-able-to-use,Knowledge
+https://ethereum.stackexchange.com/questions/132922/did-anyone-succeed-to-implement-eddsa-verification-using-solidity,Roadmap Identification
+https://ethereum.stackexchange.com/questions/131984/zkstark-verifier-in-solidity,Roadmap Identification
+https://stackoverflow.com/questions/72500659/is-zk-snarks-implementable-in-this-use-case-scenario,Roadmap Identification
+https://ethereum.stackexchange.com/questions/37043/private-transactions,Roadmap Identification
+https://ethereum.stackexchange.com/questions/1129/what-data-will-zk-snarks-protect,Knowledge
+https://stackoverflow.com/questions/59514288/order-of-points-in-zokrates-proofs,Template Usage
+https://ethereum.stackexchange.com/questions/7625/where-can-i-find-the-snarkverify-precompile-opcode-implementation-in-parity-an,API Usage
+https://ethereum.stackexchange.com/questions/65106/zk-snarks-with-zokrates-problems-with-proving-the-hash-preimage-tutorial,Template Usage
+https://ethereum.stackexchange.com/questions/144962/can-anyone-point-me-to-any-zk-based-applications-codebase-that-features-fuzz-te,Security 
+https://ethereum.stackexchange.com/questions/35365/private-variables,Knowledge
+https://ethereum.stackexchange.com/questions/45927/ethereum-facilitation-for-zk-snarks,Roadmap Identification
+https://ethereum.stackexchange.com/questions/126762/is-zk-rollup-unsecure,Security 
+https://ethereum.stackexchange.com/questions/71680/simple-mixer-in-ethereum,Security 
+https://ethereum.stackexchange.com/questions/61208/hiding-values-from-calculation-zksnarks,Roadmap Identification
+https://ethereum.stackexchange.com/questions/80116/facing-issue-in-verifier-sol-file,Template Usage
+https://ethereum.stackexchange.com/questions/12689/efficiency-of-zksnarks-as-an-ethereum-smart-contract-vs-zcash,Knowledge
+https://ethereum.stackexchange.com/questions/57671/an-example-on-using-zk-snark-in-smart-contract,Roadmap Identification
+https://ethereum.stackexchange.com/questions/54536/hashing-algorithm-equality-in-zk-snark,Roadmap Identification
+https://ethereum.stackexchange.com/questions/84195/does-ethereum-support-just-bilinear-pairing-calculation-not-the-pairing-check,API Usage
+https://ethereum.stackexchange.com/questions/9810/would-be-possible-to-hide-a-function-execution-with-zksnarks,Knowledge
+https://ethereum.stackexchange.com/questions/142593/what-is-the-best-lib-to-use-for-zero-knowledge-application,Roadmap Identification
+https://ethereum.stackexchange.com/questions/111686/where-can-i-find-code-of-zkevm-from-zksync,N/A
+https://ethereum.stackexchange.com/questions/145211/zk-learning-dont-know-where-to-start,N/A
+https://ethereum.stackexchange.com/questions/140850/smart-contract-with-private-data,Roadmap Identification
+https://ethereum.stackexchange.com/questions/67217/how-the-following-scenario-be-achieved-using-smart-contracts,Roadmap Identification
+https://ethereum.stackexchange.com/questions/134491/not-able-to-make-zokrates-usage-non-interactive,Template Usage
+https://ethereum.stackexchange.com/questions/122314/what-part-of-zk-blockchain-is-private,N/A
+https://ethereum.stackexchange.com/questions/141305/how-to-code-a-zk-roll-up-in-solidity-smart-contracts,Roadmap Identification
+https://ethereum.stackexchange.com/questions/83586/how-to-compute-pairing-in-a-smart-contract,Roadmap Identification
+https://ethereum.stackexchange.com/questions/138469/hide-the-value-of-a-variable-until-a-condition-is-fulfilled,N/A
+https://ethereum.stackexchange.com/questions/92636/what-is-a-zkrollup-and-how-does-it-work-in-scaling-a-dapp,N/A
+https://ethereum.stackexchange.com/questions/41122/can-i-make-a-secret-invite-only-smart-contract,Roadmap Identification
+https://ethereum.stackexchange.com/questions/124677/how-to-securly-perform-arbitrary-operations-on-the-value-of-confidential-data-in,Roadmap Identification
+https://ethereum.stackexchange.com/questions/130961/what-is-the-current-state-of-zkevm-development,N/A
+https://stackoverflow.com/questions/51605174/writing-a-circuit-in-zokrates-to-proof-age-is-over-21-years,Template Usage
+https://ethereum.stackexchange.com/questions/9175/concealing-sensitive-data-in-a-public-contract,Roadmap Identification

@@ -1,0 +1,201 @@
+Question,Obstacle
+https://ethereum.stackexchange.com/questions/118117/signature-always-132-characters-instead-of-65-characters,N/A
+https://ethereum.stackexchange.com/questions/128960/requesting-code-review-for-simple-eip712-validation-scheme,Template Usage
+https://stackoverflow.com/questions/75621179/smart-contract-invalid-signature-solidity,Knowledge
+'https://ethereum.stackexchange.com/questions/123731/eip712-checks-chainid-while-eip155-includes-chainid-info-in-the-signature,Security
+https://stackoverflow.com/questions/67873155/how-to-use-the-ecdsa-sol-module-correctly,Template Usage
+https://ethereum.stackexchange.com/questions/17708/solidity-ecrecover-and-web3j-sign-signmessage-are-not-compatible-is-it,API Usage
+https://ethereum.stackexchange.com/questions/123855/how-to-store-secure-private-keys-on-a-server-that-are-being-used-for-39gasle,N/A
+https://ethereum.stackexchange.com/questions/40085/creating-multi-signature-address-in-solidity,Roadmap Identification
+https://stackoverflow.com/questions/69586521/truffle-testing-trying-to-use-web3-to-test-eip712-are-there-any-alternatives,Template Usage
+https://ethereum.stackexchange.com/questions/61755/avoid-replay-attacks-on-signing-on-smart-contracts,Security
+https://ethereum.stackexchange.com/questions/142972/how-threshold-signatures-have-the-same-address-public-key,Knowledge
+https://stackoverflow.com/questions/49026384/transfer-function-not-working-as-expected-in-solidity,N/A
+https://stackoverflow.com/questions/48210539/how-to-add-participants-to-a-whitelist-during-ico-period,Roadmap Identification
+https://ethereum.stackexchange.com/questions/73389/why-soliditys-keccak-returns-different-value-from-online-generators,N/A
+https://ethereum.stackexchange.com/questions/88287/how-to-implement-owner-check-in-solidity,Roadmap Identification
+https://ethereum.stackexchange.com/questions/13865/ecrecover-after-eth-sign-update-with-preamble,API Usage
+https://ethereum.stackexchange.com/questions/133684/modular-exponentiation-for-bytes-represented-big-integers-in-solidity,Roadmap Identification
+https://ethereum.stackexchange.com/questions/49063/check-message-signature-in-solidity,Knowledge
+https://ethereum.stackexchange.com/questions/1639/does-a-contract-message-call-require-a-signature-from-the-sender,Knowledge
+https://ethereum.stackexchange.com/questions/131712/is-this-implementation-of-openzeppelins-ecdsa-module-secure,Security
+https://ethereum.stackexchange.com/questions/113369/verifying-solidity-signature-returns-invalid-signature-with-recover,Template Usage
+https://ethereum.stackexchange.com/questions/140565/verifying-signed-message-in-solidity-ecdsa-invalid-signature-length,Template Usage
+https://ethereum.stackexchange.com/questions/124594/transfer-erc20-a-wallet-to-another,Template Usage
+https://stackoverflow.com/questions/75558754/invalid-signature-smart-contract,Template Usage
+https://ethereum.stackexchange.com/questions/133456/transferring-erc20-tokens-from-a-multi-signature-wallets-to-a-smart-contract-usi,Template Usage
+https://ethereum.stackexchange.com/questions/128734/how-to-get-functionname-from-msg-data-signature-in-solidity,N/A
+https://ethereum.stackexchange.com/questions/102149/workaround-invalid-checksum-when-using-eth-private-key-to-sign-messages-sent-to,N/A
+https://stackoverflow.com/questions/62247259/validate-tron-address-using-solidity-ecrecover,API Usage
+https://ethereum.stackexchange.com/questions/139985/convert-bytes-signature-into-string,N/A
+https://ethereum.stackexchange.com/questions/41334/tokenupdateverifysig-on-etherscan-io-will-not-seem-to-process-without-error-fo,N/A
+https://ethereum.stackexchange.com/questions/58653/trouble-with-ecrecover,API Usage
+https://ethereum.stackexchange.com/questions/39406/is-it-possible-to-create-a-smart-contract-from-a-multi-sig-smart-contract-wallet,N/A
+https://stackoverflow.com/questions/75019935/how-to-define-typehash-for-eip712-typed-data-signing-with-nested-struct-in-solid,Template Usage
+https://ethereum.stackexchange.com/questions/3487/walk-through-creation-of-a-personal-two-factor-authentication-wallet-contract,Roadmap Identification
+https://ethereum.stackexchange.com/questions/27402/totalsupply-solidity-signature-causing-conflict-error,N/A
+https://ethereum.stackexchange.com/questions/678/how-to-handle-library-function-prototype-changes,N/A
+https://ethereum.stackexchange.com/questions/139443/ecrecover-not-returning-expected-public-address-in-a-solidity-contract,Template Usage
+https://ethereum.stackexchange.com/questions/32507/are-contracts-able-to-send-messages-to-eoas,N/A
+https://ethereum.stackexchange.com/questions/143308/authenticating-solidity-params-and-signatures-within-smart-contract,API Usage
+https://ethereum.stackexchange.com/questions/34013/ecrecover-on-bytes32-array-elements,API Usage
+https://stackoverflow.com/questions/71188471/how-do-you-sign-a-message-in-node-and-then-verify-that-signature-came-from-an-a,Roadmap Identification
+https://ethereum.stackexchange.com/questions/71680/simple-mixer-in-ethereum,Roadmap Identification
+https://ethereum.stackexchange.com/questions/71728/after-eip-198-introduction-how-much-gas-is-required-for-rsa-signature-verificat,API Usage
+https://ethereum.stackexchange.com/questions/36192/how-to-prevent-tampering-of-contract-call-from-the-web,Roadmap Identification
+https://ethereum.stackexchange.com/questions/112203/obfuscate-tx-input-data-by-hashing-and-hardcoding-salt-in-contract,N/A
+https://stackoverflow.com/questions/52297519/how-does-abi-encodepacked-and-sha256-work-in-solidity,API Usage
+https://ethereum.stackexchange.com/questions/33418/what-is-the-best-type-to-store-a-signature-on-chain,N/A
+https://ethereum.stackexchange.com/questions/112807/using-ecdsa-sol-to-sign-smartcontract,Template Usage
+https://ethereum.stackexchange.com/questions/131064/claiming-rewards-in-p2e-game,Roadmap Identification
+https://ethereum.stackexchange.com/questions/111338/architecture-of-dapp,N/A
+https://ethereum.stackexchange.com/questions/49042/ethereum-multi-signature-address,Roadmap Identification
+https://ethereum.stackexchange.com/questions/79110/signing-message-with-private-key-and-verifying-signer-in-smart-contract,API Usage
+https://ethereum.stackexchange.com/questions/137787/validating-smart-contract-arguments,Security
+https://ethereum.stackexchange.com/questions/19685/i-need-help-with-signatures,Knowledge
+https://ethereum.stackexchange.com/questions/12950/what-are-solidity-events-and-how-they-are-related-to-topics-and-logs,N/A
+https://ethereum.stackexchange.com/questions/51421/how-can-we-verify-bgls-aggregate-signatures-in-solidity,Roadmap Identification
+https://ethereum.stackexchange.com/questions/31835/can-the-precompiles-in-byzantium-for-pairings-be-used-for-implementation-of-bls,API Usage
+https://ethereum.stackexchange.com/questions/143206/can-ecdsa-keys-hashing-to-a-contract-address-be-used-to-sign-a-transaction,N/A
+https://ethereum.stackexchange.com/questions/111168/ethers-js-cant-handle-functions-with-variant-call-signature,N/A
+https://ethereum.stackexchange.com/questions/138494/cant-recover-address-from-signature-implementing-eip712-with-eth-signtypeddata,Template Usage
+https://stackoverflow.com/questions/73884227/how-to-check-if-a-method-exists-in-solidity-contract,N/A
+https://ethereum.stackexchange.com/questions/90721/how-is-the-signature-generated-when-the-function-does-not-have-parameters,N/A
+https://stackoverflow.com/questions/61222017/how-to-get-correct-address-using-ecrecover-in-tron,API Usage
+https://stackoverflow.com/questions/70931069/how-to-enable-claim-tokens-in-solidity-smart-contract,N/A
+https://ethereum.stackexchange.com/questions/102369/is-that-possible-a-multisig-contract-with-erc721,Roadmap Identification
+https://ethereum.stackexchange.com/questions/58776/can-smart-contracts-make-transactions-on-behalf-of-the-caller,N/A
+https://stackoverflow.com/questions/73017970/nft-whitelist-how-to-make-a-variable-mint-allowance-per-address,Roadmap Identification
+https://ethereum.stackexchange.com/questions/118572/how-to-extract-fourbyte-signatures-and-resulting-arguments-from-solidity-compile,N/A
+https://ethereum.stackexchange.com/questions/15568/using-solidity-to-verify-ecdsa-signature-from-external-key-pair,Roadmap Identification
+https://ethereum.stackexchange.com/questions/76738/how-to-have-ecrecover-return-nothing-i-means-which-value-for-malformed-input,API Usage
+https://ethereum.stackexchange.com/questions/130241/running-solidity-smart-contract-on-frontend,N/A
+https://ethereum.stackexchange.com/questions/138724/how-can-i-prepend-a-known-message-before-a-hash-and-then-sign-it-in-solidity-im,API Usage
+https://ethereum.stackexchange.com/questions/6964/is-there-any-specific-reason-for-web3-js-to-not-compile-contracts-directly-from,N/A
+https://ethereum.stackexchange.com/questions/87796/multi-signature-contract-with-offline-signing,Roadmap Identification
+https://stackoverflow.com/questions/75293216/eip712-ecrecover-returns-different-address,Template Usage
+https://ethereum.stackexchange.com/questions/66065/what-should-i-input-to-these-parameters-in-my-multisigwallet-contracts-function,API Usage
+https://ethereum.stackexchange.com/questions/69888/how-do-i-get-the-address-from-a-signature,Roadmap Identification
+https://ethereum.stackexchange.com/questions/137518/eip712-unable-to-verify-signature-return-from-js,Template Usage
+https://ethereum.stackexchange.com/questions/144388/solidity-weird-calldata-line-of-code-bytes-calldata-signature-signature,N/A
+https://ethereum.stackexchange.com/questions/90281/how-to-verify-that-a-smart-contract-was-deployed-by-us,N/A
+https://ethereum.stackexchange.com/questions/3718/creating-eth-newfilter-topic-listeners-with-python,N/A
+https://ethereum.stackexchange.com/questions/145412/unable-to-use-a-function-from-imported-library,N/A
+https://ethereum.stackexchange.com/questions/12730/how-can-i-verify-a-secp256r1-signature-using-solidity,Roadmap Identification
+https://ethereum.stackexchange.com/questions/142876/generate-edsca-recoverable-signature-for-use-with-openzeppelin-edsca-contract-e,Template Usage
+https://ethereum.stackexchange.com/questions/97287/retrieve-public-key-of-an-address-to-verify-off-chain-signatures,Roadmap Identification
+https://stackoverflow.com/questions/70886680/displaying-the-transaction-value-of-a-custom-erc20-function-in-metamask,N/A
+https://ethereum.stackexchange.com/questions/135591/split-signature-function-in-solidity-by-example-docs,Template Usage
+https://ethereum.stackexchange.com/questions/19091/how-to-confirm-request-in-parity,N/A
+https://stackoverflow.com/questions/73330630/trouble-with-calling-executetransaction-function-on-timelock-contract,N/A
+https://ethereum.stackexchange.com/questions/36818/tx-origin-and-msg-sender-when-sending-signed-raw-transaction,N/A
+https://stackoverflow.com/questions/75318872/buy-from-opensea-using-ethersjs-without-the-sdk,N/A
+https://ethereum.stackexchange.com/questions/28822/why-and-how-does-the-low-security-functions-affect-the-biggest-multi-signature,Security
+https://ethereum.stackexchange.com/questions/66684/multi-signature-ecrow-time-based,Roadmap Identification
+https://ethereum.stackexchange.com/questions/138064/different-signed-message-hash-in-python-and-solidity,API Usage
+https://ethereum.stackexchange.com/questions/121782/how-do-you-make-a-signature-valid-for-only-one-transaction,Security
+https://ethereum.stackexchange.com/questions/73744/how-to-do-rsa-signature-verification-based-on-eip-198,Roadmap Identification
+https://ethereum.stackexchange.com/questions/49261/how-to-use-ecrecover-and-what-it-is,API Usage
+https://ethereum.stackexchange.com/questions/133216/obtaining-ecdsa-values-to-pass-as-arguments-for-a-solidity-function-call,Template Usage
+https://ethereum.stackexchange.com/questions/111419/can-i-store-a-truly-private-variable-with-eip712,Template Usage
+https://ethereum.stackexchange.com/questions/133163/eth-sign-keeps-giving-scary-warning-eventough-its-nothing-dangerous,N/A
+https://ethereum.stackexchange.com/questions/112545/solidity-whitelisting-many-adresses,Roadmap Identification
+https://ethereum.stackexchange.com/questions/13997/execute-contract-using-multi-sig-contract-account,N/A
+https://ethereum.stackexchange.com/questions/1408/will-pooled-staking-be-implemented-using-multisig-deposits,N/A
+https://ethereum.stackexchange.com/questions/3704/can-you-extract-bytesn-from-bytes-in-solidity,N/A
+https://ethereum.stackexchange.com/questions/44616/does-a-caller-contract-needs-to-know-the-complete-interface-of-a-callee,N/A
+https://ethereum.stackexchange.com/questions/59290/how-to-test-the-following-contract,N/A
+https://ethereum.stackexchange.com/questions/66273/simple-payment-channel-contract-is-not-signing-payments-and-returns-false,Template Usage
+https://ethereum.stackexchange.com/questions/143682/how-to-generate-the-correct-hash-for-signatures,Roadmap Identification
+https://stackoverflow.com/questions/72145959/how-can-i-create-a-function-to-validate-if-an-user-can-mint,Template Usage
+https://ethereum.stackexchange.com/questions/145145/query-on-signature-testing,Knowledge
+https://stackoverflow.com/questions/74772318/why-does-the-usdc-transferwithauthorisation-method-work-inconsistently,N/A
+https://stackoverflow.com/questions/69535334/problem-in-verifying-the-signature-in-smart-contract-which-was-signed-by-eth-per,Template Usage
+https://ethereum.stackexchange.com/questions/112022/is-there-a-way-to-encrypt-data-on-a-smart-contract-in-a-secure-way,Knowledge
+https://stackoverflow.com/questions/53678828/ethereum-solidity-contract-payable-signature,N/A
+https://ethereum.stackexchange.com/questions/40774/is-there-a-solidity-library-to-create-msghash,Roadmap Identification
+https://ethereum.stackexchange.com/questions/147031/begin-a-career-as-a-core-blockchain-developer-espacially-in-evm-blockchain,N/A
+https://ethereum.stackexchange.com/questions/136650/how-can-i-verify-more-params-with-hashtypeddatav4-from-openzeppelin,Template Usage
+https://ethereum.stackexchange.com/questions/51774/web3j-signature-and-solidity-ecrecover,API Usage
+https://ethereum.stackexchange.com/questions/92298/keccak256-hash-different-in-solidity-and-web3js,API Usage
+https://ethereum.stackexchange.com/questions/118597/are-multiple-interfaces-with-same-function-signature-necessary,N/A
+https://stackoverflow.com/questions/55821912/how-to-make-a-smart-contract-only-executable-when-called-by-specific-verified-ad,Roadmap Identification
+https://ethereum.stackexchange.com/questions/146780/how-can-i-call-an-already-deployed-contract-with-struct-as-parameters-from-a-new,N/A
+https://ethereum.stackexchange.com/questions/48907/openzeppelin-ecrecovery-does-not-work,Template Usage
+https://ethereum.stackexchange.com/questions/119333/is-it-possible-for-a-server-to-execute-a-contract-call-but-for-a-user-to-pay-the,N/A
+https://ethereum.stackexchange.com/questions/83877/message-signing-and-verification-for-micropayment-channel,API Usage
+https://ethereum.stackexchange.com/questions/78815/ethers-js-recover-public-key-from-contract-deployment-via-v-r-s-values,N/A
+https://stackoverflow.com/questions/70005355/mekaverse-nft-smart-contract-is-using-ecdsa-but-i-dont-understand-how-it-works,Template Usage
+https://ethereum.stackexchange.com/questions/11772/convert-from-bytes32-to-bytes-with-format-xff-xff-xff,Template Usage
+https://stackoverflow.com/questions/75510347/how-to-fix-the-error-invalid-signature-smart-in-a-contract-call,Template Usage
+https://ethereum.stackexchange.com/questions/24367/is-it-possible-to-sign-a-message-in-solidity,Knowledge
+https://ethereum.stackexchange.com/questions/45461/verify-ecdsa-signature-in-solidity,Roadmap Identification
+https://ethereum.stackexchange.com/questions/121906/how-to-pass-an-empty-array-to-inherited-constructor,N/A
+https://ethereum.stackexchange.com/questions/72908/interaction-smart-contract-and-third-party-app-how-to-make-sure-the-request-co,Knowledge
+https://stackoverflow.com/questions/74760405/update-token-information-page,Template Usage
+https://ethereum.stackexchange.com/questions/57239/abi-to-call-value,N/A
+https://ethereum.stackexchange.com/questions/122139/calling-a-base-contracts-constructor-dynamically,N/A
+https://ethereum.stackexchange.com/questions/91080/simplest-way-to-call-an-external-public-contrat-function,N/A
+https://ethereum.stackexchange.com/questions/50010/how-are-tuples-handled-for-the-function-selector,N/A
+https://ethereum.stackexchange.com/questions/69948/inconsistent-result-for-web3-constant-method-call,N/A
+https://ethereum.stackexchange.com/questions/3749/check-if-a-contract-implements-specific-abi-using-json-rpc,N/A
+https://ethereum.stackexchange.com/questions/142627/ecrecover-not-recovering-correct-address-but-works-with-ethers-js-library,API Usage
+https://ethereum.stackexchange.com/questions/144313/what-kind-of-multisig-wallet-is-this,N/A
+https://ethereum.stackexchange.com/questions/120187/solidity-cannot-verify-ethers-js-signed-data,API Usage
+https://stackoverflow.com/questions/50873698/how-to-handle-a-solidity-uint-array-with-web3,N/A
+https://ethereum.stackexchange.com/questions/107025/how-to-override-when-inherited-contracts-have-same-method-name-but-slightly-diff,N/A
+https://ethereum.stackexchange.com/questions/110176/how-to-test-sending-transaction-from-zero-address-in-truffle,N/A
+https://ethereum.stackexchange.com/questions/93440/experiencing-an-invalid-signature-error-when-trying-to-use-the-permit-featur,Template Usage
+https://ethereum.stackexchange.com/questions/82570/verification-of-ecdsa-signature-is-not-valid-while-testing-hashdice-sol,Template Usage
+https://ethereum.stackexchange.com/questions/36188/create-hash-in-c-and-validate-in-solidity,N/A
+https://ethereum.stackexchange.com/questions/77231/simple-question-on-ecrecover,API Usage
+https://ethereum.stackexchange.com/questions/76346/how-to-call-ecrecover-in-pure-assembly,API Usage
+https://ethereum.stackexchange.com/questions/131856/recover-parameter-from-given-signed-message,N/A
+https://ethereum.stackexchange.com/questions/30177/deploying-a-smart-contract-with-just-bytecode,N/A
+https://ethereum.stackexchange.com/questions/28045/how-to-confirm-a-multisig-etc-contract-wallet-transaction-that-requires-two-acco,N/A
+https://ethereum.stackexchange.com/questions/6919/x-509-certificate-verification-in-solidity,Roadmap Identification
+https://ethereum.stackexchange.com/questions/64206/sign-message-obtain-v-r-s-inside-solidity,Knowledge
+https://ethereum.stackexchange.com/questions/142423/sign-message-usage,Knowledge
+https://ethereum.stackexchange.com/questions/56072/how-to-prevent-signature-input-double-spending,Security
+https://ethereum.stackexchange.com/questions/138232/multisig-contract-inherited-in-erc1155-however-safetransferfrom-is-not-calling-t,N/A
+https://ethereum.stackexchange.com/questions/23992/cryptography-in-a-smart-contract,Knowledge
+https://ethereum.stackexchange.com/questions/146865/eip-4337-account-abstraction-and-losing-private-keys,N/A
+https://ethereum.stackexchange.com/questions/12128/how-to-implement-cryptographic-algorithms-in-smart-contracts,Roadmap Identification
+https://ethereum.stackexchange.com/questions/138272/why-ecdsa-tryrecover-returns-zero-address,Template Usage
+https://ethereum.stackexchange.com/questions/110834/how-to-use-delegate-by-sig-and-permit-and-also-writes-tests-for-these-two-functi,Template Usage
+https://stackoverflow.com/questions/64431002/i-want-to-change-array-of-struct-from-fixed-to-dynamic-where-as-when-i-remove-ar,N/A
+https://ethereum.stackexchange.com/questions/134448/gated-access-to-nft-hodlers,N/A
+https://ethereum.stackexchange.com/questions/7089/multisignature-contract-process-got-the-error-typeerror-cannot-access-member-c,N/A
+https://ethereum.stackexchange.com/questions/5678/checking-values-of-variables-before-storing-them,Roadmap Identification
+https://ethereum.stackexchange.com/questions/11642/getting-method-id-quotkeccak-hashquot-in-python,N/A
+https://ethereum.stackexchange.com/questions/121467/integrating-kms-with-ethers-signtypeddata-eip712,N/A
+https://stackoverflow.com/questions/74169169/what-is-the-mapping-signature-in-solidity,N/A
+https://ethereum.stackexchange.com/questions/145589/why-the-default-mint-signatures-in-openzeppelins-erc1155-wizard-use-onlyowne,N/A
+https://ethereum.stackexchange.com/questions/49337/how-to-compute-ecrecover-parameters-in-solidity,API Usage
+https://ethereum.stackexchange.com/questions/28066/do-i-have-to-implement-erc20-signature-as-separate-contract-and-use-inheritance,N/A
+https://stackoverflow.com/questions/75524488/how-does-a-smart-contract-like-a-safe-multisig-create-a-signature,Template Usage
+https://ethereum.stackexchange.com/questions/125425/solidity-cannot-verify-ethers-js-signed-data-signtypeddata,Template Usage
+https://ethereum.stackexchange.com/questions/109449/getting-wrong-address-from-ecdsa-recover,Template Usage
+https://ethereum.stackexchange.com/questions/109649/can-someone-please-help-me-understand-the-params-and-sign-requirement-of-this-le,Template Usage
+https://ethereum.stackexchange.com/questions/54950/implementing-2-phase-commit-2pc-with-solidity,N/A
+https://ethereum.stackexchange.com/questions/11252/smart-contract-transaction-signature,N/A
+https://ethereum.stackexchange.com/questions/75907/risk-of-messages-not-having-a-signature,N/A
+https://ethereum.stackexchange.com/questions/133500/trouble-with-calling-executetransaction-function-on-timelock-contract,Template Usage
+https://ethereum.stackexchange.com/questions/59880/solidity-ecrecovery-and-ethereumjs-ecsign-return-different-address,API Usage
+https://ethereum.stackexchange.com/questions/42771/ed25519-in-smart-contracts,Roadmap Identification
+https://ethereum.stackexchange.com/questions/41230/get-public-key-from-signature-in-a-smart-contract-note-public-key-not-address,Roadmap Identification
+https://ethereum.stackexchange.com/questions/72725/question-about-inline-assembly-in-solidity,API Usage
+https://ethereum.stackexchange.com/questions/134413/eth-signing-and-verfiyfing-messagews-function-recovering-wrong-address,API Usage
+https://ethereum.stackexchange.com/questions/50519/can-smart-contract-perform-decryption,Knowledge
+https://ethereum.stackexchange.com/questions/59048/how-are-function-signature-hashes-calculated-in-serpent,N/A
+https://ethereum.stackexchange.com/questions/10993/duplicate-function-name-with-different-signatures,N/A
+https://ethereum.stackexchange.com/questions/27035/can-someone-explain-signing-a-transaction-and-how-its-different-from-sending-e,N/A
+https://ethereum.stackexchange.com/questions/32401/verifying-bicoin-signed-message-in-ethereum-smart-contract,Roadmap Identification
+https://stackoverflow.com/questions/75166344/authenticating-solidity-params-and-signatures-within-smart-contract,API Usage
+https://ethereum.stackexchange.com/questions/53067/error-when-trying-to-implement-multisig-wallet,Template Usage
+https://ethereum.stackexchange.com/questions/106918/unable-to-verify-signature,Template Usage
+https://ethereum.stackexchange.com/questions/38249/unable-to-use-ecrecover-in-solidity-to-recover-address-used-to-sign-a-message-s,API Usage
+https://ethereum.stackexchange.com/questions/98134/verify-a-signature-generated-with-web3-in-solidity,Template Usage
+https://ethereum.stackexchange.com/questions/24265/eip-198-and-rsa-verify-use-cases,Roadmap Identification
+https://ethereum.stackexchange.com/questions/44028/ecrecover-throwing-out-of-gas-error-on-ropsten,API Usage
+https://stackoverflow.com/questions/71732888/constructing-a-method-id-on-solidity,N/A

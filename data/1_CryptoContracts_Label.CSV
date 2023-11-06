@@ -1,0 +1,564 @@
+name,address,Crypto API,Crypto Task,Scheme,balance,compiler,txcount2
+CryptoCrystal,0xcec76159cb10f8c110e738809e4ee4b71f1de12e,sha3;,Random Number Generator,sha3,0.1951 Ether,v0.4.23,3700
+ActionCompose,0xbe8115cdf67fcbbca3efb2a9ff18bb98eac2308f,sha3;,Random Number Generator,sha3,0.001 Ether,v0.4.21,20736
+CryptoAndDragonsPresale,0xac625cbd6d8628f9de1b69a2e057073e0dca0a0d,sha3;,Random Number Generator,sha3,0 Ether,v0.4.19,160
+ClownCore,0x9884d4e9b305ad015168e9d6e4400582dce2cd59,sha3;,Random Number Generator,sha3,0 Ether,v0.4.23,11014
+ETHERCExchange,0xd8d48e52f39ab2d169c8b562c53589e6c71ac4d3,sha3;ecrecover;,Signature,ecdsa+sha3,10.46542087311866229 Ether,v0.4.20,21784
+KYCCrowdsale,0x5de9f32b2665bb2cdc23bfb51b03e2a2985ecc87,ecrecover;sha2-256;,Signature,ecdsa+sha2-256,20.92760000000000001 Ether,v0.4.21,177
+DungeonRunBeta,0x06ea256d8a2112aff4f700407e254bae8921811d,sha3;,Random Number Generator,sha3,0.19 Ether,v0.4.19,314
+EthealNormalSale,0x64386613c1abc7a2ce3c00765f505c025d10b8b1,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,v0.4.19,56
+Etheroll,0x048717ea892f23fb0126f00640e2b18072efd9d2,sha3;ecrecover;sha2-256;,Message Digest,sha3,6.561305780685470408 Ether,v0.4.18,201315
+Etheroll,0x048717ea892f23fb0126f00640e2b18072efd9d2,sha3;ecrecover;sha2-256;,Signature,ecdsa+sha2-256,6.561305780685470408 Ether,v0.4.18,201315
+Etheroll,0x048717ea892f23fb0126f00640e2b18072efd9d2,sha3;ecrecover;sha2-256;,Commitment(Single Value),sha3,6.561305780685470408 Ether,v0.4.18,201315
+Marketplace,0xb3bca6f5052c7e24726b44da7403b56a8a1b98f8,sha3;,Message Digest,sha3,0 Ether,v0.4.21,30194
+Fishbank,0xa98ad92a642570b83b369c4eb70efefe638bc895,sha3;,Message Digest,sha3,0.06 Ether,v0.4.21,39783
+TulipCore,0x995020804986274763df9deb0296b754f2659ca1,sha3;,Random Number Generator,sha3,93.804175045066613553 Ether,v0.4.18,2151
+SportCrypt,0x37304b0ab297f13f5520c523102797121182fb5b,sha3;ecrecover;,Signature,ecdsa+sha3,194.960244961950291591 Ether,v0.4.18,6653
+KYCCrowdsale,0xbed45823677e242081f97e2a7c8422f0d9d6b006,ecrecover;sha2-256;,Signature,ecdsa+sha2-256,0 Ether,v0.4.18,317
+Mineable,0xea642206310400cda4c1c5b8e7945314aa96b8a7,sha2-256;,Random Number Generator,sha2-256,0 Ether,v0.4.11,4530
+PriceFeed,0xbe4a09d4661f631f7e13aa2d5719efc476fb211c,sha3;,Solidity(Selector),sha3,0 Ether,v0.4.18,6213
+Oraclize,0x3dbdc81a6edc94c720b0b88fb65dbd7e395fdcf6,sha3;,Message Digest,sha3,2.05056126945095384 Ether,v0.4.15,247
+DomainSale,0xc67247454e720328714c4e17bec7640572657bee,sha3;,Message Digest,sha3,0.2385227801 Ether,v0.4.17,2404
+AirSwapExchange,0x8fd3121013A07C57f0D69646E86E7a4880b467b7,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,v0.4.17,27832
+EtherFlip,0xffc08dd84a66775e6236e0a80ee2f340e0042f8c,sha3;ecrecover;sha2-256;,Message Digest,sha3,0.02418121609716445 Ether,v0.4.11,3967
+EtherFlip,0xffc08dd84a66775e6236e0a80ee2f340e0042f8c,sha3;ecrecover;sha2-256;,Signature,ecdsa+sha2-256,0.02418121609716445 Ether,v0.4.11,3967
+EtherFlip,0xffc08dd84a66775e6236e0a80ee2f340e0042f8c,sha3;ecrecover;sha2-256;,Commitment(Single Value),sha3,0.02418121609716445 Ether,v0.4.11,3967
+WalletSimple,0x5b9e8728e316bbeb692d22daaab74f6cbf2c4691,sha3;ecrecover;,Signature,ecdsa+sha2-256,0.00011 Ether,v0.4.14,10
+CallLib,0x1deeda36e15ec9e80f3d7414d67a4803ae45fc80,sha3;,Solidity(Selector),sha3,0 Ether,v0.2.0,1
+IDice,0xe6517b766e6ee07f91b517435ed855926bcb1aae,sha3;,Other(VRF),sha2-256,58.082917072466529175 Ether,v0.4.11,25633
+IDice,0xe6517b766e6ee07f91b517435ed855926bcb1aae,sha3;,Random Number Generator,sha2-256,58.082917072466529175 Ether,v0.4.11,25633
+EtherDelta,0x8d12a197cb00d4747a1fe03395095ce2a5cc6819,sha3;ecrecover;sha2-256;,Signature,ecdsa+sha2-256,"25,070.827742727282779883 Ether",v0.4.9,10257299
+_AtlantisToken,0xd72F60b2E7649bBC5835d25e30Ef917f04D9131c,sha3;,Proof of Work,sha3,0 Ether,v0.4.18,31063
+SkorchToken,0xd83caa129d9d7080a15d26499733f783eb14e667,sha3;,Proof of Work,sha3,0 Ether,v0.4.24,10457
+BancorNetwork,0xf20b9e713a33f61fa38792d2afaf1cd30339126a,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,v0.4.21,23
+_0xBitcoinCash,0xe5b9746dfcc2ef1054d47a451a77bb5f390c468d,sha3;,Proof of Work,sha3,0 Ether,v0.4.18,65270
+LocalEthereumEscrows,0x867ffb5a3871b500f65bdfafe0136f9667deae06,sha3;ecrecover;,Signature,ecdsa+sha3,86.79244286964 Ether,v0.4.24,40715
+ESSENTIA_PE,0xcd85f4fd1c87d6ba898b697c13ded067e5041a32,sha3;,Solidity(Selector),sha3,0 Ether,v0.4.24,15095
+EURSToken,0xdb25f211ab05b1c97d595516f45794528a807ad8,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,v0.4.21,1283
+R1Exchange,0x353D92db08564500d812DDFD23a668D2F405ED85,sha3;ecrecover;,Signature,ecdsa+sha3,260.169189715485625388 Ether,v0.4.20,2906
+FoMo3Dlong,0xa62142888aba8370742be823c1782d17a0389da1,sha3;,Solidity(Selector),sha3,"9,328.947321050493413519 Ether",v0.4.24,170165
+FoMo3Dlong,0xa62142888aba8370742be823c1782d17a0389da1,sha3;,Random Number Generator,sha3,"9,328.947321050493413519 Ether",v0.4.24,170165
+EToken2,0x331d077518216c07C87f4f18bA64cd384c411F84,sha3;,Message Digest,sha3,0 Ether,v0.4.8,56446
+EpicPackFour,0x482cf6a9d6b23452c81d4d0f0f139c1414963f89,sha3;,Random Number Generator,sha3,0.063 Ether,v0.4.24,1937
+CryptoSagaCardSwapVer2,0xcc862f25b2f725c0666d67774c47c63c9a3af150,sha3;,Random Number Generator,sha3,0 Ether,v0.4.18,50
+Etheroll,0xa52e014b3f5cc48287c2d483a3e026c32cc76e6d,sha3;ecrecover;sha2-256;,Message Digest,sha3,"4,595.836463332779570596 Ether",v0.4.24,115809
+Etheroll,0xa52e014b3f5cc48287c2d483a3e026c32cc76e6d,sha3;ecrecover;sha2-256;,Signature,ecdsa+sha2-256,"4,595.836463332779570596 Ether",v0.4.24,115809
+Etheroll,0xa52e014b3f5cc48287c2d483a3e026c32cc76e6d,sha3;ecrecover;sha2-256;,Commitment(Single Value),sha3,"4,595.836463332779570596 Ether",v0.4.24,115809
+MindsToken,0xb26631c6dda06ad89b93c71400d25692de89c068,sha3;,Solidity(Selector),sha3,0 Ether,v0.4.24,3069
+FoMo3Dlong,0x5d0d76787d9d564061dd23f8209f804a3b8ad2f2,sha3;,Solidity(Selector),sha3,9.718244032347710648 Ether,v0.4.24,11126
+FoMo3Dlong,0x5d0d76787d9d564061dd23f8209f804a3b8ad2f2,sha3;,Random Number Generator,sha3,9.718244032347710648 Ether,v0.4.24,11126
+Zlots,0x2974aa2c025aeac44bb8d284e33b9e7d527f0025,sha3;,Random Number Generator,sha3,0 Ether,v0.4.24,934
+EtheremonTransform,0x16ecc82b4e3e5ff5a4db8510ed191282a37639b0,sha3;,Random Number Generator,sha3,3.36 Ether,v0.4.19,947
+BREBuy,0x6236634c1e5267a7567b14f4aade9fb1026daacc,sha3;,Random Number Generator,sha3,0 Ether,v0.4.24,2554
+BITOXAirdrop,0xe2612b9bc5cc0abf3fd35400cc2e49b3d426c56f,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,v0.4.24,1200
+FckDice,0xb83a8ac6900f19d77333e640550bd8830d5fcb26,sha2-256; modexp,Signature,RSA+sha256,0 Ether,v0.8.24,1
+Mobius2D,0xa74642aeae3e2fd79150c910eb5368b64f864b1e,sha3;,Random Number Generator,sha3,36.516195982497038328 Ether,v0.4.24,427
+BigFishRoll,0x7e2743451b1f3d2849e44cf67164bfe4538fd0f1,sha3;ecrecover;sha2-256;,Message Digest,sha3,4.765645284137553815 Ether,v0.4.20,38
+BigFishRoll,0x7e2743451b1f3d2849e44cf67164bfe4538fd0f1,sha3;ecrecover;sha2-256;,Signature,ecdsa+sha2-256,4.765645284137553815 Ether,v0.4.20,38
+BigFishRoll,0x7e2743451b1f3d2849e44cf67164bfe4538fd0f1,sha3;ecrecover;sha2-256;,Commitment(Single Value),sha3,4.765645284137553815 Ether,v0.4.20,38
+WheelOf0xBitcoin,0x656038e97cee7c095673f7b9fad695b323a6f098,sha3;,Random Number Generator,sha3,0 Ether,v0.4.24,2190
+OwnedRegistrar,0xa86ba3b6d83139a49b649c05dbb69e0726db69cf,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,v0.4.25,11
+PEX,0xcc152BA543A3942A07E488A29702CA1cB40Ea7e6,sha3;ecrecover;,Signature,ecdsa+sha3,0.58261923815 Ether,v0.4.24,77
+EdgelessCasino,0x764280456ae178591e037e36b01f69a52d9327a7,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,v0.4.21,13
+Zethroll,0x1fe2401bd6f4de5eff1661086440297baa9a2e12,sha3;,Random Number Generator,sha3,0 Ether,v0.4.25,3945
+BondingManager,0xcbaa6ea4886b535fc7abace3f3985ed03b3b80a0,sha3;,Solidity(Selector),sha3,0 Ether,v0.4.18,1
+DailyAction,0xEE6BD04C6164D7F0Fa1cb03277C855639D99A7F6,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,v0.5.2,13982
+KyberSwapLimitOrder,0x52d35e8f0ffa18337b093aec3dfff40445d8f4f4,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.5.9,150
+SuperplayerCharacter,0xaaf592245ee1f5c2f00cd71f5f1d90eb390a096a,sha3;,Random Number Generator,sha3,0 Ether,0.5.1,1312
+CloneableWallet,0x989a2ad9acaa8c4e50b2fc6b650d6e1809b9195b,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.5.10,1
+TwoKeyMaintainersRegistry,0x8579970692bf77fafeeb017f07dec9a8fdb4893d,sha3;,Message Digest,sha3,0 Ether,0.4.24,1
+TwoKeyCampaignValidator,0xaae9c5f1731922e9e6347377abe3349854f0ca75,sha3;,Message Digest,sha3,0 Ether,0.4.24,1
+NimbusRouter,0xf4e18A105C825990Bf8681c28560307DF78Ce1A3,sha3;,Solidity(Create2),sha3,0 Ether,0.7.6,98
+Synthetix,0x97767D7D04Fd0dB0A1a2478DCd4BA85290556B48,sha3;,Solidity(Selector),sha3,0 Ether,0.5.16,2
+HidingGameDistributor,0xd81e97075dbda444ef65db3a96706c679b5311fd,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.6.9,20
+MerkleDistributor,0x4ee7c0F5480Eb1EDd8902a5E8b991ed52992d5f5,sha3;,Commitment(Vector),sha3,0 Ether,0.6.11,19404
+BridgeBank,0xEcA46baed9fbe8543b5963571aA93762343B7F9F,sha3;,Message Digest,sha3,0 Ether,0.5.16,2
+BullrunBabesOracle,0x15E51C63518aB39281E80f9Cd6D70930AD7ea8a5,sha3;sha2-256;,Random Number Generator,sha3,0 Ether,0.6.12,4111
+Crucible,0x18cc48140cFeC90CEF0035761D56d2d0ff3a110f,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.7.6,2
+Airdrop Distributor,0x5c087cbb48f869f636ff11b385884296146fb505,sha3;,Commitment(Vector),sha3,0 Ether,0.6.12,1
+CoinHandlerProxy,0x13000c4a215efe7e414bb329b2f11c39bcf92d78,sha3;,Solidity(Selector),sha3,"4,925.246988817380265882 Ether",0.6.12,1003
+MerkleStatementContract,0x0d62bac5c346c78DC1b27107CAbC5F4DE057a830,sha3;,Commitment(Vector),sha3,0 Ether,0.6.11,58
+ForwarderFactory,0xffa397285ce46fb78c588a9e993286aac68c37cd,sha3;,Solidity(Selector),sha3,0 Ether,0.7.5,5
+BlockSelector,0x98d951e9b0c0bb180f1b3ed40dde6e1b1b521cc1,sha3;,Random Number Generator,sha3,0 Ether,0.7.4,1
+Waifus,0x2216d47494e516d8206b70fca8585820ed3c4946,sha2-256;,Message Digest,sha2-256;,"3,407.5 Ether",0.7.1,3576
+TransferRegistry,0xc3ca38091061e3e5358a52d74730f16c60ca9c26,sha3;,Message Digest,sha3,0 Ether,0.6.12,30
+MerkleBox,0xe67516417a934b27cf0c14868f8165b1bc94bf73,sha3;,Commitment(Vector),sha3,0 Ether,0.6.12,1
+UniswapV2Router02,0xCB0cb2d22C529FdC9F6EFff2ED21086104b21a79,sha3;,Solidity(Create2),sha3,0 Ether,0.6.12,155
+AccessControlledOffchainAggregator,0xd3fCD40153E56110e6EEae13E12530e26C9Cb4fd,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.7.6,153
+AccessControlledOffchainAggregator,0xFFC14A3B26708545BcCf8e915e2e8348123f5460,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.7.6,45
+AccessControlledOffchainAggregator,0x7104Ac4abCecF1680F933b04c214B0C491D43ecC,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.7.6,137
+BridgeValidators,0x540e698b5fa712a06ea64eb377692a7df7815653,sha3;,Message Digest,sha3,0 Ether,0.4.24,1
+ProofOfHumanity,0xc5e9ddebb09cd64dfacab4011a0d5cedaf7c9bdb,sha3;ecrecover;,Signature,ecdsa+sha3,53.979011 Ether,0.5.17,562
+ForeignBridgeNativeToErc,0x06f6512a2f08df9f566b0843ee27326a688883b7,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.4.24,1
+TokenMapped,0x3c894caf21f18f42d8d06daf26983c4b6a32fc1c,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.6.12,1
+Light,0xc549A5c701cb6E6cbc091007A80c089C49595468,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.6.12,11
+MerkleRedeem,0x3bf5c0a496E95Be000C724Bc580343Ff2DB346CB,sha3;,Commitment(Vector),sha3,0 Ether,0.6.8,21
+AccessControlledOffchainAggregator,0x51aa283a37771B33101e88658C440951ee0AE02d,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.7.6,34
+LissajousToken,0x0Ac9f2dde31eEee4fFb3f2DE5578FaE7C97B5755,sha3;,Message Digest,sha3,0.383139953353653451 Ether,0.7.3,18
+MandalaToken,0xDaCa87395f3b1Bbc46F3FA187e996E03a5dCc985,sha3;ecrecover;,Signature,ecdsa+sha3,12.18375 Ether,0.7.1,811
+Timelock,0x9E8e622e0bA0deE491Fbc42d1Bb12Ab947e2D03B,sha3;,Message Digest,sha3,0 Ether,0.5.16,1
+AccessControlledOffchainAggregator,0x785433d8b06D77D68dF6be63944742130A4530d1,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.7.6,15
+PerpRewardVesting,0x32c0Fc9Edbae6B81514103991b39d1C2958d4af1,sha3;,Commitment(Vector),sha3,0 Ether,0.6.9,2
+YouSwapRouter,0xf80ddd58e040df41c0761566295a8c1b75b30770,sha3;,Solidity(Selector),sha3,0 Ether,0.6.6,374
+YouSwapRouter,0xf80ddd58e040df41c0761566295a8c1b75b30770,sha3;,Solidity(Create2),sha3,0 Ether,0.6.6,374
+Orders,0x7218d567b671e36c4e6b3257b8919196cf68ff5e,sha3;,Solidity(Selector),sha3,0 Ether,0.7.5,1
+MethodVault,0xbe7a52E9067fEc647cc2F795c5c38287E573b4E1,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.7.6,1
+PunkBodies,0x837779Ed98209C38b9bF77804a4f0105B9eb2E02,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.7.4,140
+ForefrontMerkle,0x63a7bc3689181d3164418204f8fd4055014b572a,sha3;,Commitment(Vector),sha3,0 Ether,0.6.5,759
+SoftMinter,0xC8c1B77218645a8a26F752D9e3392D23b4F93849,sha3;,Message Digest,sha3,0 Ether,0.8.0,8698
+UniswapV2,0x77Bc1A1ba4E9A6DF5BDB21f2bBC07B9854E8D1a8,sha3;,Message Digest,sha3,0 Ether,0.7.5,1
+UniswapV2,0x77Bc1A1ba4E9A6DF5BDB21f2bBC07B9854E8D1a8,sha3;,Solidity(Create2),sha3,0 Ether,0.7.5,1
+PartnerRegistry,0xaba1cf56148d57643be41c4cc1b54482c2bfcaea,sha3;,Message Digest,sha3,0 Ether,0.7.5,1
+LUSDToken,0x5f98805A4E8be255a32880FDeC7F6728C6568bA0,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.6.11,359
+MerkleDistributor,0xcbe6b83e77cdc011cc18f6f0df8444e5783ed982,sha3;,Commitment(Vector),sha3,0 Ether,0.6.12,216
+Lib_AddressManager,0xd3EeD86464Ff13B4BFD81a3bB1e753b7ceBA3A39,sha3;,Message Digest,sha3,0 Ether,0.7.6,25
+FinalizableGpsFactAdapter,0x8Ab85d3A1816a0d7ECE0F57AF6b27FC3b05532F4,sha3;,Message Digest,sha3,0 Ether,0.6.11,4
+MerkleDistributor,0x5d918012f56c7ef4c9b78fca97c126ae13c0f639,sha3;,Commitment(Vector),sha3,0 Ether,0.6.11,774
+O3SwapETHUniswapBridge,0x96cfa408ca039d9afea0b8227be741ef52e8a037,sha3;,Message Digest,sha3,0 Ether,0.6.12,2
+O3SwapETHUniswapBridge,0x96cfa408ca039d9afea0b8227be741ef52e8a037,sha3;,Solidity(Create2),sha3,0 Ether,0.6.12,2
+ForeignAMB,0x5F1E78f12025d8D05920134F4a64DDBDdaa924BE,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.4.24,1
+BridgeEth,0xBfB9Edb68a27d50E7cFD703fE1107E4Dd3004dc3,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.0,4
+ERC20Claim,0x39034dBc4a6b1034e73568A265b3D5E63d4F5E16,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.7.6,229
+RelayHub,0x9e59ea5333cd4f402dac320a04fafa023fe3810d,sha3;ecrecover;,Commitment(Single Value),sha3,0 Ether,0.7.6,1
+RelayHub,0x9e59ea5333cd4f402dac320a04fafa023fe3810d,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.7.6,1
+RollupChain,0xf86FD6735f88d5b6aa709B357AD5Be22CEDf1A05,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.7.6,123
+RollupChain,0xf86FD6735f88d5b6aa709B357AD5Be22CEDf1A05,sha3;ecrecover;,Commitment(Vector),sha3,0 Ether,0.7.6,123
+Bridge,0x1485e9852ac841b52ed44d573036429504f4f602,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.7.6,0
+Token Distribution,0x42b38ca3E09c92CA82FA3659Ca039188A6A076ac,sha3;,Commitment(Vector),sha3,0 Ether,0.7.3,1
+MainchainGatewayManager,0x8407dc57739bcda7aa53ca6f12f82f9d51c2f21e,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.5.17,1
+WithdrawManager,0x6894E03d6C9Cf815195F25084eFbC3ce2916cbb3,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.5.17,1
+WithdrawManager,0x6894E03d6C9Cf815195F25084eFbC3ce2916cbb3,sha3;ecrecover;,Commitment(Vector),sha3,0 Ether,0.5.17,1
+Staking,0xc46E213Cc97653A8ac24B005Bc7e20BADaCb91b8,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.5.17,1
+Quoter,0xb27308f9F90D607463bb33eA1BeBb41C27CE5AB6,sha3;,Solidity(Create2),sha3,0 Ether,0.7.6,1
+AccessControlledOffchainAggregator,0xf4060f80f295b34e0C2471461ba43745Aeb186d6,sha3;ecrecover;,Signature,ecdsa+sha3,0 ETH,0.7.6,9
+AccessControlledOffchainAggregator,0xd90CA9ac986e453CF51d958071D68B82d17a47E6,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.7.6,3
+AccessControlledOffchainAggregator,0xAe74faA92cB67A95ebCAB07358bC222e33A34dA7,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.7.6,129
+MultiCollateralSynth,0x4D8dBD193d89b7B506BE5dC9Db75B91dA00D6a1d,sha3;,Solidity(Selector),sha3,0 Ether,0.5.16,2
+EverPay,0x38741a69785e84399fcf7c5ad61d572f7ecb1dab,sha3;ecrecover;,Signature,ecdsa+sha3,1.3840001 Ether,0.8.3,33
+IdleTokenGovernance,0xd133552be9724b501e1ee9c257e34e07317b5db6,sha3;,Message Digest,sha3,0 Ether,0.5.16,1
+PerpetualTokensAndRamping,0x3FeD7bF5Bf3E738bc30fBe61B048fDcb82368545,sha3;ecrecover;modexp;,Zero knowledge Proof,Plonk,0 Ether,0.6.11,1
+PerpetualTokensAndRamping,0x3FeD7bF5Bf3E738bc30fBe61B048fDcb82368545,sha3;ecrecover;modexp;,Signature,ecdsa+sha3,0 Ether,0.6.11,1
+Bridge,0x06ca62541955E2330927f0489a957Df211220B04,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.0,1
+SushiExchangeInteractiveAdapter,0x3b862d6f9ef92D3fF2142EC80A8968895B09127F,sha3;,Solidity(Create2),sha3,0 Ether,0.7.6,1
+AccessControlledOffchainAggregator,0x908EDc7E1974Ecab1cA7164424BC4Cac287D83Ad,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.7.6,829
+ArchiSwapRouter,0x07F72839D7A71A117fA859cBA643c9291EEba921,sha3;,Solidity(Create2),sha3,0 Ether,0.6.6,1
+SequencerInbox,0x04f6BFf0D8491fDc83D0cF0117EDA228532074d1,sha3;,Commitment(Vector),sha3,0 Ether,0.6.11,1
+UniswapV3Pool,0xC2e9F25Be6257c210d7Adf0D4Cd6E3E881ba25f8,sha3;,Message Digest,sha3,0 Ether,0.7.6,3
+MintGatewayLogicV2,0xd0DA0D062d18cc70BE85Ff94afa880EcEe66EEDD,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.5.17,2
+ZkSync,0x14d1658207EA41b7346D4E293Abc79eaD42ac9ff,sha3;ecrecover;sha256;modexp;ecadd;ecmul;ecpairing,Zero knowledge Proof,Plonk,0 Ether,0.7.6,1
+ZkSync,0x14d1658207EA41b7346D4E293Abc79eaD42ac9ff,sha3;ecrecover;sha256;modexp;ecadd;ecmul;ecpairing,Signature,ecdsa+sha3,0 Ether,0.7.6,1
+ZkSync,0x14d1658207EA41b7346D4E293Abc79eaD42ac9ff,sha3;ecrecover;sha256;modexp;ecadd;ecmul;ecpairing,Commitment(Single Value),sha256,0 Ether,0.7.6,1
+AdditionalZkSync,0x70DBf0A0198b114010Cb02Eb0E6acF8A74Cfe0Cf,sha3;ecrecover;modexp;ecadd;ecmul;ecpairing,Zero knowledge Proof,Plonk,0 Ether,0.7.6,1
+AdditionalZkSync,0x70DBf0A0198b114010Cb02Eb0E6acF8A74Cfe0Cf,sha3;ecrecover;modexp;ecadd;ecmul;ecpairing,Signature,ecdsa+sha3,0 Ether,0.7.6,1
+AdditionalZkSync,0x70DBf0A0198b114010Cb02Eb0E6acF8A74Cfe0Cf,sha3;ecrecover;modexp;ecadd;ecmul;ecpairing,Solidity(Selector),sha3,0 Ether,0.7.6,1
+StakingRewardsDualV4_FRAX_OHM,0xfC77A420f56Dec53e3b91D7FC936902e132335FF,sha3;,Message Digest,sha3,0 Ether,0.8.4,7
+DODOV2,0x7de19ddaaf2947f8db18a37862c8441e60016154,sha3;,Message Digest,sha3,0 Ether,0.7.5,1
+TurboVerifier,0xbc87b0ccdd7e5a064051ae9aeece2ca6617d8675,sha3;modexp;ecadd;ecmul;ecpairing;,Zero knowledge Proof,Plonk,0 Ether,0.6.10,1
+WePiggyNFT,0x68ad300954e0750138CDc1dA93AA40dDf217303C,sha3;,Commitment(Vector),sha3,0 Ether,0.6.12,2
+LimitOrderProtocol,0x3ef51736315F52d568D6D2cf289419b9CfffE782,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.4,7
+MerkleDistributor,0x459beef3c5Bd5D1E66de93AC908E278ee2488F14,sha3;,Commitment(Vector),sha3,0 Ether,0.7.5,1
+GUniPoolStatic,0x67092Ab1C3dAC772fF15F823Eb48cB63f087B691,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.4,1
+Staking,0xC3d14a6E96bcbd7915B940504537Ab9A4CA1E55c,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.7.4,1
+InstaMerkleDistributorLM,0x3b9AE61b9feaCBa6C2f58D73aA484D671900bFb4,sha3;,Commitment(Vector),sha3,0 Ether,0.7.0,1
+UniswapExchange,0x91b2d9bf9b995c0bece573b5406ebf2dd611de17,sha3;,Solidity(Create2),sha3,0 Ether,0.5.17,10
+HDPunks,0x3e86e26915403ae0e1cff7e7b23377b3a30104a0,sha3;,Random Number Generator,sha3,36 Ether,0.8.4,273
+SagaPersonalMinter,0x6021883B8BdBeb7ED9Cb0016502540A9969A296e,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.7.3,3
+Part,0x0f3b491841680eb40Bd2Be42Bce7104F2511dbD9,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.5.2,3055
+SPACEX,0x42f024a6725ab5323ac4d3fc25da469a566351fa,sha3;,Solidity(Create2),sha3,0 Ether,0.5.17,9
+UniswapV2Factory,0x115934131916C8b277DD010Ee02de363c09d037c,sha3;,Solidity(Create2),sha3,0 Ether,0.6.12,25
+usdcMerkleDistributor,0x9E1FDDcfCF7c0917371497AC24d27dB764aAE0FE,sha3;,Commitment(Vector),sha3,0 Ether,0.6.12,2
+UniswapV2Router02,0x03f7724180AA6b939894B5Ca4314783B0b36b329,sha3;,Solidity(Create2),sha3,0 Ether,0.6.12,76789
+Registry,0x33e71e649abdc09f650ad44139674828a2075ad2,sha3;,Message Digest,sha3,0 Ether,0.5.17,12
+AMMWrapperWithPath,0x4a14347083B80E5216cA31350a2D21702aC3650d,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.6.12,1
+UniswapV3RouterFork,0xca88dfe8ad58b350677aa0dd4dea2aec7e675004,sha3;,Solidity(Create2),sha3,0 Ether,0.7.5,1
+UniswapExchange,0x2c5d4b25a0f232f315c1186ac4c04d95649796b1,sha3;,Solidity(Create2),sha3,0 Ether,0.5.17,8
+OaxacaProtocol,0x6d58686571ba831947869c326825b60d99a20c1c,sha3;,Random Number Generator,sha3,0 Ether,0.5.16,15
+TokenDistributor,0x0dcdc346adf5a808f8e683c31ba89fa6c6e5775d,sha3;,Commitment(Vector),sha3,0 Ether,0.6.12,3
+TokenDistributor,0xd1fa5aa6ad65ed6fea863c2e7fb91e731dcd559f,sha3;,Commitment(Vector),sha3,0 Ether,0.6.12,3
+TokenDistributor,0xa4a3603000f5495f924a5c474af67622b6b9c8fa,sha3;,Commitment(Vector),sha3,0 Ether,0.6.12,7
+MorpherState,0x1f426C51F0Ef7655A6f4c3Eb58017d2F1c381bfF,sha3;,Commitment(Vector),sha3,0 Ether,0.5.16,1062
+MerkleTokenVesting,0x8d52c3bac5FA670B8A1e8d370C00a086946C54bB,sha3;,Commitment(Vector),sha3,0 Ether,0.8.3,1
+MerkleDrop,0xdc509ab3931bd413f7eed42c6d45882b73ec64fd,sha3;,Commitment(Vector),sha3,0 Ether,0.8.6,1
+PixelGlyphs,0xf38d6bf300d52ba7880b43cddb3f94ee3c6c4ea6,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.0,35
+NFT20Pair,0x4C5057D1cc3642e9c3aC644133D88a20127Fbd67,sha3;,Message Digest,sha3,0 Ether,0.6.8,1
+InterestToken,0xA1Cc9BBcd3731A9fd43E1F1416f9B6Bf824F37D7,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.0,1
+L1_ERC20_Bridge,0x3E4a3a4796d16c0Cd582C382691998f7c06420B6,sha3;,Commitment(Vector),sha3,0 Ether,0.6.12,14
+SporesToken,0xcbE771323587EA16dACB6016e269D7F08A7ACC4E,sha3;,Solidity(Create2),sha3,0 Ether,0.7.0,17
+TheWonderQuest,0x08bEBEB5f042CCbaEb128582DA560cb25a5dB7e9,sha3;,Random Number Generator,sha3,268.3536 Ether,0.8.6,1264
+MaidCoin,0x4Af698B479D0098229DC715655c667Ceb6cd8433,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.5.16,1
+UnlockDiscountTokenV2,0x5bEf305dDC84A2c7239353eF9CA19a5e9e1E8fDF,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.4,1
+Tellor,0x2754da26f634E04b26c4deCD27b3eb144Cf40582,sha3;sha2-256;ripemd160;,Proof of Work,sha3;sha2-256;ripemd160;,0 Ether,0.7.4,1
+AstragladeUpgrade,0xf6680e700394e7fDC1Edc8d57653F507A4192931,sha3;ecrecover;,Signature,ecdsa+sha3,18.204 Ether,0.8.0,286
+StakingPools,0x960A7A7952F23E93450075Ea9fF6fcf9AA95224B,sha3;,Solidity(Selector),sha3,0 Ether,0.7.6,2
+CrossDelegate,0x7ee4c21c1932176e87df17f1db95ab7e24d5cb4a,sha3;ecrecover;sha2-256;,Signature,ecdsa+sha2-256,0 Ether,0.4.26,1
+CrossDelegate,0x7ee4c21c1932176e87df17f1db95ab7e24d5cb4a,sha3;ecrecover;sha2-256;,Solidity(Selector),sha3,0 Ether,0.4.26,1
+CryptoZunks,0x031920cc2D9F5c10B444FD44009cd64F829E7be2,sha3;,Message Digest,sha3,55.38 Ether,0.8.4,632
+CryptoZunks,0x031920cc2D9F5c10B444FD44009cd64F829E7be2,sha3;,Random Number Generator,sha3,55.38 Ether,0.8.4,632
+Verifier,0xEF974376054490C8d87b8438b4cEC00391ac05b9,sha3;sha2-256;modexp;ecadd;ecmul;ecpairing;,Commitment(Single Value),sha2-256,0 Ether,0.7.6,1
+Verifier,0xEF974376054490C8d87b8438b4cEC00391ac05b9,sha3;sha2-256;modexp;ecadd;ecmul;ecpairing;,Zero knowledge Proof,Plonk,0 Ether,0.7.6,1
+BToken,0x74cac868f2254f1a6b7ca951f0d86eac4a65c132,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.6,0
+Lender2Distributor,0xAe7b93a591c37eA37Ed8Bc7B6B999C85f2eD2405,sha3;ecrecover;,Signature,ecdsa+sha3,0 ETH,0.6.9,0
+AccessControlledOffchainAggregator,0x9257D83A0DdA413cA24F66dD32A056Bc2eBAFd2e,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.7.6,3
+OracleRootTunnel,0xED95D5DE4764A35805be526B2AbA776C5Fd99ef8,sha3;,Commitment(Vector),sha3,0 ETH,0.8.4,0
+FlippedPenguinsToken,0x49055997b76bCE07a6aA8fAA61a97b42731b9Cb5,sha3;,Message Digest,sha3,0 ETH,0.8.7,0
+Escrow,0x31db3Ea8349A49362b4Ca3a34685a0C88bD07DA4,sha3;ecrecover;,Signature,ecdsa+sha3,0 ETH,0.8.7,0
+Bridge,0x582d872A1B094FC48F5DE31D3B73F2D9bE47def1,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.7.4,5
+OVM_CanonicalTransactionChain,0x4B5D9E5A6B1a514eba15A2f949531DcCd7c272F2,sha3;ecrecover;,Commitment(Vector),sha3,0 Ether,0.7.6,24
+OVM_CanonicalTransactionChain,0x4B5D9E5A6B1a514eba15A2f949531DcCd7c272F2,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.7.6,24
+CollabRoyaltiesRegistry,0xe28e054d596576841682e8c993E415B3ccB2EBeB,sha3;,Solidity(Create2),sha3,0 Ether,0.8.4,0
+AlkimiExchangeToken,0x3106a0a076bedae847652f42ef07fd58589e001f,sha3;,Solidity(Create2),sha3,0 ETH,0.8.4,0
+ryoMerkleDistributor,0x7732674B5E5FfeC4785AEFdAEa807EeCA383B5e6,sha3;,Commitment(Vector),sha3,0 Ether,0.6.12,1
+AccessControlledOffchainAggregator,0xfB1a282F901dD905a57D863f7B46FEbCd2B4a8e3,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.7.6,32
+RollupEventBridge,0xb872Ea300eDba3872873fa1Aa33DB897c4D2cB66,sha3;,Commitment(Vector),sha3,0 Ether,0.6.11,1
+RollupUserFacet,0x00c51f63a2d906510cb2c802c0a30589ba75d942,sha3;,Commitment(Vector),sha3,0 Ether,0.6.11,1
+Outbox,0x8fdA3500EA1F8c6790cE5Ed482dA23337B3E2A5f,sha3;,Commitment(Vector),sha3,0 Ether,0.6.11,1
+Captcha,0x3d3D9cC92dBA4559D0f862E34fAA33E9967f6534,sha3;,Message Digest,sha3,26.25 Ether,0.8.7,730
+Quotation,0xB365FA523d853fbfA5608E3e4c8457166287D958,sha3;ecrecover;,Message Digest,sha3,0 Ether,0.5.17,1
+SushiSwapMultiSwapper,0x545820d5Cc05248da112419fEfb18522c63C8e12,sha3;,Solidity(Create2),sha3,0 Ether,0.6.12,1
+AccessControlledOffchainAggregator,0x6951b03911592b3fC33d44F4ea5eA32A830E57D8,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.7.6,4
+TransformERC20Feature,0x44a6999ec971cfca458aff25a808f272f6d492a2,sha3;,Solidity(Create2),sha3,0 Ether,0.6.12,1
+TransformERC20Feature,0x44a6999ec971cfca458aff25a808f272f6d492a2,sha3;,Solidity(Selector),sha3,0 Ether,0.6.12,1
+TheSevens,0xf497253c2bb7644ebb99e4d9ecc104ae7a79187a,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.7,2
+LootHymns,0x83f1d1396b19fed8fbb31ed189579d07362d661d,sha3;,Random Number Generator,sha3,1.08 Ether,0.8.4,22
+BittyBots,0x75448243a3CCdE04368D2c19a01a710602e5f658,sha3;,Random Number Generator,sha3,0 Ether,0.8.7,60
+AutumnToken,0x4c3bAe16c79c30eEB1004Fb03C878d89695e3a99,sha3;,Proof of Work,sha3,0 Ether,0.8.5,2
+WinterToken,0xCcbA0b2bc4BAbe4cbFb6bD2f1Edc2A9e86b7845f,sha3;,Proof of Work,sha3,0 Ether,0.8.5,1
+SummerToken,0x4D4f3715050571A447FfFa2Cd4Cf091C7014CA5c,sha3;,Proof of Work,sha3,0 Ether,0.8.5,1
+SpringToken,0xf04aF3f4E4929F7CD25A751E6149A3318373d4FE,sha3;,Proof of Work,sha3,0 Ether,0.8.5,1
+WeaponizedCountries,0xc031b7793f17100e9b7ad369ca05e5ec8a0f5b5c,sha3;,Random Number Generator,sha3,0 Ether,0.7.5,1
+ProvablyRareGem,0x046427fA6b924739Cd98Ee507CB0db34c7A66C2e,sha3;,Random Number Generator,sha3,0 Ether,0.8.3,874
+DPRStaking,0x146766d444e21f3bbe3d486b1520c5a673336956,sha3;,Message Digest,sha3,0 Ether,0.5.17,4
+Soda,0x437a6b880d4b3be9ed93bd66d6b7f872fc0f5b5e,sha3;,Random Number Generator,sha3,0 Ether,0.8.7,1
+BridgeBank,0x714b49640c2a545b672e8bbd53cc8935725c6a14,sha3;,Message Digest,sha3,0 Ether,0.5.16,2
+ZPets,0xf455aAc43e2e5452B1848993BE5067F362d459d2,sha3;,Random Number Generator,sha3,0 Ether,0.8.4,3
+SoulyCuratedMinting,0x487532aB23f6c6908fD36624043498D5BaAe197a,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.3,1
+Fewmans,0xad5f6cdda157694439ef9f6dd409424321c74628,sha3;,Message Digest,sha3,0 Ether,0.8.7,19507
+HomeBridgeNativeToErc,0xf106ec891045d0608dfc85d736cada0c747d35bc,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.4.24,1
+Blitnauts,0x448f3219CF2A23b0527A7a0158e7264B87f635Db,sha3;,Message Digest,sha3,0 Ether,0.8.4,1
+FeePool,0x510adfDF6E7554C571b7Cd9305Ce91473610015e,sha3;,Message Digest,sha3,0 Ether,0.5.16,1
+ExchangerWithVirtualSynth,0x7634F2A1741a683ccda37Dce864c187F990D7B4b,sha3;,Message Digest,sha3,0 Ether,0.5.16,1
+UniswapV2Router02,0x73F15DDD5b5449631ac11AF84E57aa05bB4d1D64,sha3;,Solidity(Create2),sha3,0 Ether,0.6.6,1
+WeightedPool2Tokens,0xe2469f47ab58cf9cf59f9822e3c5de4950a41c49,sha3;,Message Digest,sha3,0 Ether,0.7.1,0
+Nobody,0x219463D0675C3fa01C1edf537Ec5Dc693B6410AE,sha3;,Random Number Generator,sha3,0 Ether,0.8.0,8
+Media,0xdabd916389642bd1a354a342bb827b6de853c11d,sha3;,Random Number Generator,sha3,0 Ether,0.7.0,776
+RainiCardsFunctions,0xCFDdcdFa89dEb80d925C9040e6896eC9F3493d1f,sha3;ecrecover;,Signature,ecdsa+sha3,13.170140137938660102 Ether,0.8.3,79
+TGE,0xE0a450B095266E97A2fe1F3A22259600Ce6B5210,sha3;ecrecover;,Signature,ecdsa+sha3,"2,835.923822966326460673 Ether",0.8.0,2130
+MerkleDistributorV1,0xFE1d5439625a9524a80F66670733129E80E0C112,sha3;,Commitment(Vector),sha3,0 Ether,0.7.5,1
+AvarikSaga,0x127E479Ac59A1EA76AfdEDf830fEcc2909aA4cAE,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.7,2
+SharpeFinanceCattle,0xd376e51fcc9889eb3eac3ead9e78f1215ccb6118,sha3;,Random Number Generator,sha3,0.2472 Ether,0.6.12,13
+Skills,0xE8e7b0FEc64eB11eA5cCE0548083Bd68aCE3CB5d,sha3;,Random Number Generator,sha3,0 Ether,0.8.7,59
+Standametti,0xfc6bc5d50912354e89bad4dabf053bca2d7cd817,sha3;,Random Number Generator,sha3,30.08 Ether,0.8.7,872
+TheHumanoids,0x3a5051566b2241285be871f650c445a88a970edd,ecrecover;,Signature,ecdsa+sha3,625.69 Ether,0.8.0,5971
+PermitFreezerRewardPool,0x0AeB26a70845976b1d60C4B16A5b97FB6Cd55f0f,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.4,1
+MonsterBricks,0x364f4eF26f167713329F7DefFA7AFF2Bc95024Ec,sha3;,Commitment(Vector),sha3,0 Ether,0.8.9,60
+WithdrawManager,0x4ef5123a30e4CFeC02B3E2F5Ce97F1328B29f7de,sha3;,Commitment(Vector),sha3,0 Ether,0.5.17,1
+DePoToken,0xa5def515cfd373d17830e7c1de1639cb3530a112,sha3;,Solidity(Create2),sha3,0 Ether,0.8.4,431
+TransferExclusive,0xBBEa1eBD631862A1686205860d6E79913711C377,sha3;,Commitment(Vector),sha3,0 Ether,0.8.7,16
+BottoAirdrop,0xed39DAFd2B2a624fE43A5BbE76e0Dae4E4E621ef,sha3;,Random Number Generator,sha3,0 Ether,0.7.6,376
+SquidNFTCard,0xbe5c953dd0ddb0ce033a98f36c981f1b74d3b33f,sha3;,Random Number Generator,sha3,0 Ether,0.8.9,552
+MarsGenesisMartiansCore,0x9f22b58A19B7Fa667C6723d558399617729f0C49,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.9,357
+Strawberries,0xd596ffcd875e30e91608b1e4029882466e1b7ee4,sha3;,Message Digest,sha3,12.95 Ether,0.8.9,155
+RewardableValidators,0xfa046626040b200b61e94f81ce822cf472b121d1,sha3;,Message Digest,sha3,0 Ether,0.4.24,1
+BrushStrokes,0xc789858e3b777aa6b7B209921d9368C4E898167e,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.9,1
+MutantPunksNFT,0x30975acac70b5d774d6f756acd03a9b90cd4d4f5,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.7,1
+ShogunNFT,0x8399D6351FD0ddb33f77BFc627E3264D74500d22,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.0,8
+Dungeon,0x1833c523b1f48c718906c002f613beA5a6C89dde,sha3;,Message Digest,sha3,0 Ether,0.8.0,250
+Dungeon,0x1833c523b1f48c718906c002f613beA5a6C89dde,sha3;,Commitment(Vector),sha3,0 Ether,0.8.0,250
+GenArt721CoreV2_DoodleLabs,0x28f2d3805652fb5d359486dffb7d08320d403240,sha3;,Message Digest,sha3,0 Ether,0.5.17,4
+BoredMummyWakingUpCandy,0x46f101f3b08a6156e8f3553945500e1f62e72a37,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.6,541
+CollectibleMintPassFactory,0x7b426A60CE72643fdf11556ee1d0Da3C0A041ED8,sha3;,Message Digest,sha3,0 Ether,0.8.4,10
+CollectibleMintPassFactory,0x7b426A60CE72643fdf11556ee1d0Da3C0A041ED8,sha3;,Commitment(Vector),sha3,0 Ether,0.8.4,10
+LazyBonesSpaceTrip,0x50820403e8ae30338648316bdba7e56d5acae8bb,sha3;,Random Number Generator,sha3,0 Ether,0.8.9,2
+GlitchGirls,0xB2a3fe3d512C1E0102D85f89caAb403B94B7D0de,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.4,8
+Lexicon,0x57F2836bB114Da5a47a1C058928344EB12Eb89Cc,sha3;,Commitment(Vector),sha3,0.01 Ether,0.8.6,713
+MerkleMinter,0xC5492bf3A3A7faDa4d1bbD0001Af37271a8B5A46,sha3;,Commitment(Vector),sha3,0 Ether,0.6.12,1
+Toucans,0x0Fb42287aF82BbC9f6532bbd0af3aeb92EA2A616,sha3;,Commitment(Vector),sha3,0 Ether,0.8.9,1
+GeneticPass,0xF91180A67A2c607523b5e32f98732D8cDDD6538A,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.9,880
+GenArt721Minter_DoodleLabs,0x4f598212d55415D83A7024Ddb48d9FcA1AFe4edf,sha3;,Message Digest,sha3,0 Ether,0.5.0,4
+MeebitsDAOGeneralMembership,0x80549075471291d8E7e14e1DEfE4280c743d86AF,sha3;,Random Number Generator,sha3,0.05 Ether,0.8.4,10
+MeebitsDAOGeneralMembership,0x80549075471291d8E7e14e1DEfE4280c743d86AF,sha3;,Commitment(Vector),sha3,0.05 Ether,0.8.4,10
+L1CrossDomainMessenger,0x12Acf6E3ca96A60fBa0BBFd14D2Fe0EB6ae47820,sha3;,Commitment(Vector),sha3,0 Ether,0.8.9,2
+L1CrossDomainMessenger,0x12Acf6E3ca96A60fBa0BBFd14D2Fe0EB6ae47820,sha3;,Message Digest,sha3,0 Ether,0.8.9,2
+CanonicalTransactionChain,0xfBd2541e316948B259264c02f370eD088E04c3Db,sha3;,Message Digest,sha3,0 Ether,0.8.9,32
+UniswapV2Pair,0xa87e2c5d5964955242989b954474ff2eb08dd2f5,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.6.12,359
+UniswapV2Pair,0x110492b31c59716ac47337e616804e3e3adc0b4a,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.6.12,2452
+UniswapV2Pair,0xb5de0c3753b6e1b4dba616db82767f17513e6d4e,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.6.12,4332
+UniswapV2Pair,0x05767d9ef41dc40689678ffca0608878fb3de906,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.6.12,2289
+UniswapV2Pair,0xd75ea151a61d06868e31f8988d28dfe5e9df57b4,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.6.12,1749
+UniswapV2Pair,0x6a091a3406e0073c3cd6340122143009adac0eda,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.6.12,6248
+MerkleDistributor,0x97688212A80a4a799635C8D96a50E86655B80865,sha3;,Commitment(Vector),sha3,0 Ether,0.8.4,1
+CryptagionLaboratory,0xf147bb9a5b75c8794136777af50fb763f2548e49,sha3;,Random Number Generator,sha3,0.045 Ether,0.8.9,8
+ERC1155NonTransferable,0xBAd188Ec8B4E168dF2a39C462A7293955EF04bf8,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.7.6,1
+RocketTokenRETH,0xae78736Cd615f374D3085123A210448E74Fc6393,sha3;,Message Digest,sha3,0 Ether,0.7.6,2
+RocketNodeManager,0x4477Fbf4Af5b34E49662d9217681a763dDc0a322,sha3;,Message Digest,sha3,0 Ether,0.7.6,9
+RocketClaimNode,0x899336A2a86053705E65dB61f52C686dcFaeF548,sha3;,Message Digest,sha3,0 Ether,0.7.6,2
+AddressQueueStorage,0x44E31944E1A6F3b8F805E105B130F8bdb7E2EBd8,sha3;,Message Digest,sha3,0 Ether,0.7.6,1
+WeightedPool2Tokens,0xF4C0DD9B82DA36C07605df83c8a416F11724d88b,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.7.1,1
+WeightedPool2Tokens,0x9c08C7a7a89cfD671c79eacdc6F07c1996277eD5,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.7.1,0
+WeightedPool2Tokens,0x4626d81b3a1711bEb79f4CEcFf2413886d461677,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.7.1,2
+Nominator,0xD0aE7da0EcE12811ce13297257d7fc42848E107E,sha3;,Commitment(Vector),sha3,0 Ether,0.8.4,188
+PangaensTheGenesis,0x6b6D2A08c61Ce400caD6ebd711A0FE65519412c5,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.7,2
+L1CrossDomainMessenger,0xd9166833FF12A5F900ccfBf2c8B62a90F1Ca1FD5,sha3;,Commitment(Vector),sha3,0 Ether,0.8.9,2
+L1CrossDomainMessenger,0xd9166833FF12A5F900ccfBf2c8B62a90F1Ca1FD5,sha3;,Message Digest,sha3,0 Ether,0.8.9,2
+StateCommitmentChain,0xBe5dAb4A2e9cd0F27300dB4aB94BeE3A233AEB19,sha3;,Message Digest,sha3,0 Ether,0.8.9,1
+StateCommitmentChain,0xBe5dAb4A2e9cd0F27300dB4aB94BeE3A233AEB19,sha3;,Commitment(Vector),sha3,0 Ether,0.8.9,1
+GOBLand,0xe43eba6B038E6156438a1797b3B6C172cC6E4254,sha3;,Commitment(Vector),sha3,0 Ether,0.8.2,3
+AdditionalZkSync,0xcc7e678D6750E49fe95b15593a35C567B428C869,sha3;ecrecover;modexp;ecadd;ecmul;ecpairing,Zero knowledge Proof,Plonk,0 Ether,0.7.6,1
+AdditionalZkSync,0xcc7e678D6750E49fe95b15593a35C567B428C869,sha3;ecrecover;modexp;ecadd;ecmul;ecpairing,Signature,ecdsa+sha3,0 Ether,0.7.6,1
+AdditionalZkSync,0xcc7e678D6750E49fe95b15593a35C567B428C869,sha3;ecrecover;modexp;ecadd;ecmul;ecpairing,Solidity(Selector),sha3,0 Ether,0.7.6,1
+MerkleDistributor,0x090e53c44e8a9b6b1bca800e881455b921aec420,sha3;,Commitment(Vector),sha3,0 Ether,0.6.11,7831
+IRL,0xe80201a8e706a7ac353124c004960201c8b99f4b,sha3;,Random Number Generator,sha3,0 Ether,0.8.7,1967
+LightCultCryptoClub,0xbE85fBd182af91290be7293438AE67549638189f,sha3;,Random Number Generator,sha3,0 Ether,0.8.9,4
+RetroactiveVesting,0x5DCA270671935cf3dF78bd8373C22BE250198a03,sha3;,Commitment(Vector),sha3,0 Ether,0.8.6,1
+Issuer,0xC2F1F551bfAd1E9A3b4816513bFd41d77f40F915,sha3;,Message Digest,sha3,0 Ether,0.5.16,1
+ERC721Rarible,0x7d708bc55abd664864b0918c98ac6ffab87a8450,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.7.6,1
+dungeonsSeeder,0xD2806cCE4be35ae7B84a25D11B5c2F1a6deeEdcB,sha3;,Random Number Generator,sha3,0 Ether,0.8.0,1
+CanonicalTransactionChain,0x56a76bcC92361f6DF8D75476feD8843EdC70e1C9,sha3;,Message Digest,sha3,0 Ether,0.8.9,192
+PopsicleV3Optimizer,0x71fd405e9c2f55522a73911b4a2f39cd80e06051,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.7.6,1
+GoldzRewards,0xd5bf9e015755489d7f8e1465ce3d82cc550efec8,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.7,19
+WhalesNFT,0x1Ebb218415B1f70aeFf54041c743082f183318cE,sha3;,Random Number Generator,sha3,418 Ether,0.8.10,11660
+WhalesNFT,0x1Ebb218415B1f70aeFf54041c743082f183318cE,sha3;,Commitment(Vector),sha3,418 Ether,0.8.10,11660
+TreasureIsland,0x06217A2E76604CB63451AC98401B898af038d4b2,sha3;,Random Number Generator,sha3,0 Ether,0.8.9,3
+AlphaGirlClub,0x8c5029957Bf42c61d19a29075Dc4e00b626E5022,ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.9,1
+RapidityLibV2,0x97Ce40AeB600F3A1e2Cac32208FC58C937676688,sha3;,Solidity(Selector),sha3,0 Ether,0.4.26,1
+GenArt721CoreV2_CryptoCitizens,0xbDdE08BD57e5C9fD563eE7aC61618CB2ECdc0ce0,sha3;,Random Number Generator,sha3,0 Ether,0.5.17,5
+BicoClaimNew,0xf92cdb7669a4601dd76b728e187f2a98092b6b7d,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.4,282
+ASMAIFAAllStarsCharacter,0x96bE46c50E882dbd373081d08E0CDE2B055Adf6c,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.4,5
+MerkleDistributor,0xc1339cf4c27d29b5Bd1fAa90739Ad1E2d4A8B9cb,sha3;,Commitment(Vector),sha3,"3,056.705 Ether",0.6.11,11
+AdultFantasySeasonOne,0x4e00fD9dBa5Fa7F870314625Fda4C3e8749134dc,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.9,5
+MyCryptoChampCore,0xa44e464b13280340904ffef0a65b8a0033460430,sha3;,Random Number Generator,sha3,0.15723783 Ether,v0.4.23,214
+ActionMiningPlat,0x5d8cad8836a8fa73ab202249cb7bfce296876e00,sha3;,Random Number Generator,sha3,0 Ether,v0.4.21,3155
+ChibiFighters,0x71c118b00759b0851785642541ceb0f4ceea0bd5,sha3;,Random Number Generator,sha3,1.785165 Ether,v0.4.23,4717
+EOSBetDice,0xb533ff572f5e33d04d02b149e7dcfe980e424c63,sha3;ecrecover;sha2-256;,Random Number Generator,sha3,0 Ether,v0.4.21,1391
+EOSBetDice,0xb533ff572f5e33d04d02b149e7dcfe980e424c63,sha3;ecrecover;sha2-256;,Signature,ecdsa+sha2-256,0 Ether,v0.4.21,1391
+EOSBetDice,0xb533ff572f5e33d04d02b149e7dcfe980e424c63,sha3;ecrecover;sha2-256;,Commitment(Single Value),sha3,0 Ether,v0.4.21,1391
+EtherbotsCore,0xd2f81cd7a20d60c0d558496c7169a20968389b40,sha3;,Solidity(Selector),sha3,0 Ether,v0.4.20,54579
+EtherbotsCore,0xd2f81cd7a20d60c0d558496c7169a20968389b40,sha3;,Random Number Generator,sha3,0 Ether,v0.4.20,54579
+EdgelessCasino,0x15f08079310e2c9dacaa73c0e450368185724aea,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,v0.4.19,3904
+SecondPriceAuction,0x54a2d42a40F51259DedD1978F6c118a0f0Eff078,ecrecover;,Signature,ecdsa+sha3,0 Ether,v0.4.17,7465
+DSPrice,0xd0e900c153225517739b0df07a00de2e76e263cb,sha3;,Solidity(Selector),sha3,0 Ether,v0.4.15,535
+TokenStore,0x1cE7AE555139c5EF5A57CC8d814a867ee6Ee33D8,sha3;ecrecover;sha2-256;,Signature,ecdsa+sha3+sha256,708.862851347655019282 Ether,v0.4.13,236067
+NumeraireBackend,0x1776e1f26f98b1a5df9cd347953a26dd3cb46671,sha3;,Message Digest,sha3,1.621780975478902616 Ether,v0.4.11,122412
+CompetitionStore,0x5f742383b6d1298980030d6af943b76cdd902143,sha3;,Random Number Generator,sha3,0.020000000000000346 Ether,v0.4.4,12742
+Dice2Win,0xd1ceeeefa68a6af0a5f6046132d986066c7f9426,sha3;ecrecover;,Signature,ecdsa+sha3,111.441860668862895832 Ether,v0.4.24,249739
+CryptoMiningWar,0x0de197dc289d680e734ccab866d529505b2638db,sha3;,Commitment(Vector),sha3,0.369746817759408182 Ether,v0.4.24,7811
+DiceGame,0x84b7d95165328d790a34cc5d7ecf528be55c65ed,sha3;ecrecover;,Signature,ecdsa+sha3,116.541123098823154026 Ether,v0.4.25,1439
+Lottery,0x101f62fb0bd47814c0bcd1e2499909adac5008c0,sha3;,Random Number Generator,sha3,0 Ether,v0.4.24,26059
+MerkleRedeem,0xdbc3088Dfebc3cc6A84B0271DaDe2696DB00Af38,sha3;,Commitment(Vector),sha3,0 Ether,0.6.8,1
+POWNFT,0x1b12fff8ed2e38177e57c80af84f9df95a946d3b,sha3;,Message Digest,sha3,0.816 Ether,0.8.0,282
+POWNFTv3,0x9abb7bddc43fa67c76a62d8c016513827f59be1b,sha3;,Message Digest,sha3,188.74998 Ether,0.8.0,6821
+StakingPools,0x37c7C2ae51E968CEfB82cFF2102727256D36D6eE,sha3;,Solidity(Selector),sha3,0 Ether,0.7.6,613
+InstaTokenDelegate,0x31de2088f38ed7F8a4231dE03973814edA1f8773,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.7.3,1
+ETHTosDisTransit,0x3C5Eb624e578D368190642Adfb2C06e829584C9f,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.6.12,190
+KappaToken,0x5d2c6545d16e3f927a25b4567e39e2cf5076bef4,sha3;,Solidity(Selector),sha3,0 Ether,0.5.5,0
+ForthClaim,0xF497b83CfBd31E7Ba1Ab646F3B50aE0aF52d03A1,sha3;,Commitment(Vector),sha3,0 Ether,0.6.11,10
+LogOfClaimedMEVBlocks,0xccccccccab8785b30f5d4ceafa0f3cbd1edaa58f,sha3;ecrecover;,Signature,ecdsa+sha3,34.241649283189686312 Ether,0.7.6,6
+Peggy,0xc735478ef7562ecc37662fc7c5e521eb835f9dab,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.6.12,7
+MerkleDistributor,0x70508dd819635a58babbae1362bc83c41a569a03,sha3;,Commitment(Vector),sha3,0 Ether,0.6.12,231
+SignedMoveProxy,0xdFA8Fa843BaBaCe5C4f293eae5A60dE750EDb7d9,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.0,6
+Verifier,0x1E2865ee982a15529AF73cb7394d7bDAD4C4e105,sha3;sha2-256;modexp;ecadd;ecmul;ecpairing;,Commitment(Single Value),sha2-256,0 Ether,0.7.6,1
+Verifier,0x1E2865ee982a15529AF73cb7394d7bDAD4C4e105,sha3;sha2-256;modexp;ecadd;ecmul;ecpairing;,Zero knowledge Proof,Plonk,0 Ether,0.7.6,1
+PortionExchangeV2,0xAea3f88B62E87F7Bf5E99972A22439071b3a0135,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.7.4,1
+ClusterRegistry,0x1adb56a7287e6cbf87b14a56209ba15ccc5c91e8,sha3;,Message Digest,sha3,0 Ether,0.5.17,1
+UniswapV3Pool,0xd017617f6f0fd22796e137a8240cc38f52a147b2,sha3;,Message Digest,sha3,0 Ether,0.7.6,0
+BoneToken,0x9813037ee2218799597d83D4a5B6F3b6778218d9,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.6.12,13720
+xLeashBoneMerkleDistributor,0x9495A029Ce34983C0bF0c45EE8214021E95dA26A,sha3;,Commitment(Vector),sha3,0 Ether,0.6.12,2
+YapeRouter,0xcc00b641305c639d9f2b3c34067c69679ee1dbef,sha3;,Message Digest,sha3,0 Ether,0.8.6,3
+DefiRound,0xc803737D3E12CC4034Dde0B2457684322100Ac38,sha3;,Commitment(Vector),sha3,0 Ether,0.6.11,493
+EdenToken,0x1559FA1b8F28238FD5D76D9f434ad86FD20D1559,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.6,2
+YAT,0x7d256d82b32d8003d1ca1a1526ed211e6e0da9e2,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.6,32
+CryptoZunks,0x031920cc2D9F5c10B444FD44009cd64F829E7be2,sha3;,Message Digest,sha3,55.38 Ether,0.8.4,632
+CryptoZunks,0x031920cc2D9F5c10B444FD44009cd64F829E7be2,sha3;,Random Number Generator,sha3,55.38 Ether,0.8.4,632
+AccessControlledOffchainAggregator,0x647323612C9daE101a69791710f4FEfD5Ef4a015,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.7.6,27
+BTRST,0x799ebfABE77a6E34311eeEe9825190B9ECe32824,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.5.16,1
+zigMerkleDistributor,0x2697B304724f277F4AD498a2792D694917bc640F,sha3;,Commitment(Vector),sha3,0 Ether,0.6.12,1
+BatchFillNativeOrdersFeature,0x8804de48debe3e6a565b5bce1a6889103ca12314,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.6.12,1
+AToken,0xeDa678212EB1E9694fC1455b2426c7aF30f69Bd5,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.6.12,1
+Gel,0x15b7c0c907e4c6b9adaaaabc300c08991d6cea05,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.5.16,1
+SavageDroids,0xa6794DEc66Df7d8B69752956df1b28cA93f77CD7,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.0,3
+AccessControlledOffchainAggregator,0x0659685E21B88A97969045bd3A02b33731E5A119,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.7.6,4
+AccessControlledOffchainAggregator,0xAA7593d1aB764FeE8f92eB047aB9b36A6C0C6A2C,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.7.6,4
+L1_ERC20_Bridge,0x3d4Cc8A61c7528Fd86C55cfe061a78dCBA48EDd1,sha3;,Commitment(Vector),sha3,0 Ether,0.6.12,8
+Forex,0xDb298285FE4C5410B05390cA80e8Fbe9DE1F259B,sha3;,Message Digest,sha3,0 Ether,0.8.0,7
+RouterFacet,0x0468531e2B17f03639DC5daC5Eb9c534e576565c,ecrecover;,Signature,ecdsa+sha3,0 Ether,0.7.6,1
+Surreals,0xa406489360a47af2c74fc1004316a64e469646a5,sha3;ecrecover;,Signature,ecdsa+sha3,14.28 Ether,0.8.7,93
+WeightedPool,0x702605f43471183158938c1a3e5f5a359d7b31ba,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.7.1,0
+Governor,0x72426BA137DEC62657306b12B1E869d43FeC6eC7,sha3;,Solidity(Selector),sha3,0 Ether,0.8.7,3
+Governor,0x72426BA137DEC62657306b12B1E869d43FeC6eC7,sha3;,Message Digest,sha3,0 Ether,0.8.7,3
+MekaVerse,0x9A534628B4062E123cE7Ee2222ec20B86e16Ca8F,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.9,9995
+EtherOrcs,0x7d9d3659dcfbea08a87777c52020bc672deece13,sha3;,Random Number Generator,sha3,0 Ether,0.8.7,4503
+CityParkUtils,0x51Fa888bB179b6b715CC9C5d62adbe543244822A,sha3;,Random Number Generator,sha3,0 Ether,0.8.7,1
+MerkleOrchard,0xdAE7e32ADc5d490a43cCba1f0c736033F2b4eFca,sha3;,Commitment(Vector),sha3,0 Ether,0.7.1,3
+BohemianBulldogs,0xCf5997c7A314ae624C6F2F4A6DdC373efd23b276,sha3;,Other(VRF),sha3,0.0035 Ether,0.8.9,8
+Bearseum,0x09f643dd754fc4effd1d2ddcf0143b54122f5aeb,sha3;,Commitment(Vector),sha3,0 Ether,0.8.0,2
+Bearseum,0x09f643dd754fc4effd1d2ddcf0143b54122f5aeb,sha3;,Random Number Generator,sha3,0 Ether,0.8.0,2
+GenArt721Minter_DoodleLabs,0x4f598212d55415D83A7024Ddb48d9FcA1AFe4edf,sha3;,Message Digest,sha3,0 Ether,0.5.0,4
+Etholvants,0x1fff1e9e963f07ac4486503e5a35e71f4e9fb9fd,sha3;,Random Number Generator,sha3,0 Ether,0.8.9,10
+Etholvants,0x1fff1e9e963f07ac4486503e5a35e71f4e9fb9fd,sha3;,Solidity(Selector),sha3,0 Ether,0.8.9,10
+SignMessageLib,0xA65387F16B013cf2Af4605Ad8aA5ec25a2cbA3a2,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.7.6,0
+NilMerkleDistributor,0x3B78AB6da605436715C80137D5e26CeA728dd387,sha3;,Commitment(Vector),sha3,0 Ether,0.6.11,136
+UniswapV2Pair,0x18a797c7c70c1bf22fdee1c09062aba709cacf04,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.6.12,835
+UniswapV3Pool,0x9db9e0e53058c89e5b94e29621a205198648425b,sha3;,Message Digest,sha3,0 Ether,0.7.6,0
+SVSx888,0xbb7a981f5f14b82ac3d3866304c8996d1d82be46,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.4,999
+StrongNFTBonusV7,0xd951bfc09a7ec90ee6331564a0d62c8cb8a86fe9,sha3;,Message Digest,sha3,0 Ether,0.6.12,1
+BlockBots,0x945520A9f9F9A6A7679CEEc5ED28EE19d2Ac18B9,sha2-256;,Message Digest,sha3,0 Ether,0.8.0,1505
+PopsicleV3Optimizer,0x5c08a6762caf9ec8a42f249ebc23aae66097218d,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.7.6,3
+Lostgirl,0x43a16061986d2BCEe1FC5E7Ed132d5058EB25D68,sha3;,Commitment(Vector),sha3,0 Ether,0.8.9,1
+Router,0x65c01002e6b2cf492de0d4874ff6705e295fc8b9,sha3;,Solidity(Create2),sha3,0 Ether,0.6.12,1
+ZenAcademy,0xf64e6fB725f04042b5197e2529b84be4a925902C,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.7,9
+TheEnigma,0x5298c6d5ac0f2964bbb27f496a8193ce78e8a8e6,sha3;,Random Number Generator,sha3,0 Ether,0.8.0,3
+Kromatika,0x3af33bEF05C2dCb3C7288b77fe1C8d2AeBA4d789,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.7.6,2
+LightClient,0x34b5378DE786389a477b40dD710812c250185f83,sha2-256;ecadd;ecmul;ecpairing;,Zero knowledge Proof,Groth16,0 ETH,0.8.16,1
+IdleTokenGovernance,0x577d963246d28dbe0dc579048adda421b054924a,sha3;,Message Digest,sha3,0 Ether,0.5.16,1
+PoolFunctionality,0x5C8D6509639fb942Cc8BB0a89c1Ab6960bd55102,sha3;ecrecover;,Solidity(Selector),sha3,0 Ether,0.7.4,1
+PoolFunctionality,0x5C8D6509639fb942Cc8BB0a89c1Ab6960bd55102,sha3;ecrecover;,Solidity(Create2),sha3,0 Ether,0.7.4,1
+PoolFunctionality,0x5C8D6509639fb942Cc8BB0a89c1Ab6960bd55102,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.7.4,1
+MetaBillionaire,0xc6C817cd60E17Fed0AF2A759624e02Dd6c812E64,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.7,2
+Bornless,0xafa1e41da1eec628d78ef6466f1a83b4dd31f024,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.7,6
+CrossDelegateV2,0x7f70d0047Ae63131ab77F179a90F1a41CeEA93Aa,sha2-256;,Message Digest,sha2-256,0 Ether,0.4.26,1
+GenArt721Minter_Flutter,0x8e80ceb80b1eea8334bf59668c07f5f52ac7251c,sha3;,Message Digest,sha3,0 Ether,0.5.17,1
+Samurai2088,0xe64213B7BFBcb14c2F9CdfDD55EaBD5Aef17F6Aa,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.4,3
+Synthopia,0x709ea840f66fb32A762908aFaE673610E169bf5a,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.10,1
+MerkleDistributor,0xb7055d5ce6522fd009129f22e41db976379035d1,sha3;,Commitment(Vector),sha3,0 Ether,0.6.12,1
+Minter,0x5EB8ad5467aBAf03F36a63f74FC1AC3f6a4aA757,sha3;,Commitment(Vector),sha3,0 Ether,0.8.7,30
+TZKGMinter,0xe774BbaCAAD2915F3dB4d1Bb798523C610A33532,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.4,1
+Surreal,0xBC4AEE331E970f6E7A5e91f7B911BdBFdF928A98,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.4,10
+MineableWords,0x05fe017770d0ca164736537177e1d571d16bbade,sha3;,Message Digest,sha3,0 Ether,0.8.4,3
+StudioUno,0x4834e620CFF02b44a68D416DA8a971a12228228c,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.6,91
+Repo,0xa8a358e9bbb9ff60d4b89cbe5b2fe88f98b51b9d,sha3;,Message Digest,sha3,0 Ether,0.4.24,1
+Dreamlands,0xe26F2c3547123B5FDaE0bfD52419D71BdFb0c4EF,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.7,2
+MerkleDistributor,0x11ae08fC5124b244451884926baFe857316f7ccc,sha3;,Commitment(Vector),sha3,0 Ether,0.8.11,214
+MerkleDistributor,0x8Cc3AD1Bc252a852d6975b0dF55DF499E0fb716d,sha3;,Commitment(Vector),sha3,0 Ether,0.6.11,732
+ForeverRugs,0xa92ed7c28d1ef5a09e805365ac1d868c3326f3d3,sha3;ecrecover;,Signature,ecdsa+sha3,2.95 Ether,0.8.7,219
+PPAShuttlepass,0xeba867502ef59adbd8bc73fbdb531ed9381b5f97,sha3;,Commitment(Vector),sha3,0 Ether,0.8.7,4
+BAMBOO,0x4805F696E71FFC76049fE28a68f6Ded5EF0Af131,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.11,2
+PatchworkKingdoms,0xD24a7C412f2279B1901E591898c1E96C140be8c5,sha3;,Commitment(Vector),sha3,0 Ether,0.8.4,3
+XRC,0x534D37C630b7e4d2A6C1E064F3a2632739e9EE04,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.4,1
+Dogewood,0x12e526bddbb1fa8db8f27b090de13dabe0d8e990,sha3;,Random Number Generator,sha3,0 Ether,0.8.7,1
+CitaDaoProject,0x9f5a47429d263f5F6c0d3C7423364E73f6fc3174,sha3;,Commitment(Vector),sha3,6.375 Ether,0.8.9,425
+MetroBlock,0x0e9d6552b85BE180d941f1cA73Ae3E318D2D4F1F,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.4,7
+ERC20,0x42ca48648b355e64ef68330e1743a4FA7e310e67,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.10,1
+NFTArtGenPresale,0xbBB9f8296c31c848beE8a8564Cb90F5635DB6BF5,sha3;,Commitment(Vector),sha3,0 Ether,0.8.4,4
+PIXELFROG,0x02f30927eB29F3f66031517bB3dE3948f32ee019,sha3;,Random Number Generator,sha3,6.09 Ether,0.8.7,128
+CrabStrategy,0xf205ad80bb86ac92247638914265887a8baa437d,sha3;,Solidity(Create2),sha3,0 Ether,0.7.6,5
+FunnyApeClub,0xb7c31ac2f96797518b92706654f773a466de4752,sha3;,Random Number Generator,sha3,0 Ether,0.7.6,92
+GalleryTwentySeven,0x6f051b2B1765eDB6A892be7736C04AaB0468AF27,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.11,1
+BoostPasses,0xd46550dc5cb0ff6e4d904926917fe31a73bb336f,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.11,4
+CoolMonkeBanana,0xc6db556fd9ec09bab6dfea320e52d8476f61d424,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.11,3
+FloorToken,0x1b8aB0b410f54aE0a24320e6188E3Ec20A6c609a,sha3;,Commitment(Vector),sha3,0 Ether,0.8.6,3
+AStETH,0xbd233D4ffdAA9B7d1d3E6b18CCcb8D091142893a,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.6.12,1
+FundDeployer,0x4f1C53F096533C04d8157EFB6Bca3eb22ddC6360,sha3;,Message Digest,sha3,0 Ether,0.6.12,5
+FundDeployer,0x4f1C53F096533C04d8157EFB6Bca3eb22ddC6360,sha3;,Solidity(Selector),sha3,0 Ether,0.6.12,5
+FaithMerkleAirdrop,0x1b44a9a94f2bb14eeF0ded2f0428231e358d31d7,sha3;,Commitment(Vector),sha3,0 Ether,0.8.4,25
+CnRERC721,0x9e62A8DBBAf93a6992166e3a80aC15c991987bf5,sha3;,Commitment(Vector),sha3,0 Ether,0.8.10,3
+BubblesAirdrop,0x184FAe65b0D0bBbA559326FEb7D9FCC6e8f31df7,sha3;,Commitment(Vector),sha3,0 Ether,0.8.10,1
+TreasureChest,0x71ac0bac4a1ad6a4b50ff51ab6b720e3be005ffe,sha3;,Random Number Generator,sha3,0 Ether,0.8.0,3
+test,0x26b4c9265f5b5a367bb85c9ef048908a72c4261b,sha3;,Message Digest,sha3,0.05 Ether,0.8.7,3
+Synthetix,0x97607b048aEa97A821C3EdC881aF7743f8868950,sha3;,Solidity(Selector),sha3,0 Ether,0.5.16,2
+ConsoleNFT_Cyber_Upgrades,0xe5a6575a0daa9ef683fab5583e234c4a6698bf05,sha3;,Other(VRF),sha3,32.45 Ether,0.8.7,885
+HeroGalaxy,0xD77e17Ecc3942B6E83F67c56999C5230c70A85a4,sha3;ecrecover;,Signature,ecdsa+sha3,66.378 Ether,0.8.11,680
+DoodlesCats,0x203f1a71114706aAFf0911d56F5a3Ab8fF614573,sha3;,Commitment(Vector),sha3,0.0195 Ether,0.8.7,12
+WavelengthXmfers,0xaec4ea20cff1897cdf8b7be329b0e2d1d49b9817,sha3;,Commitment(Vector),sha3,0 Ether,0.8.7,125
+CREDITs,0x7C7828f8A3AEFcB8Bb09740845F2A085d35ee7F8,sha3;ecrecover;,Signature,ecdsa+sha3,1.52 Ether,0.8.11,23
+MintablePresale,0x4Da61915800Bb27500b66849944702B5D636D4C1,sha3;,Commitment(Vector),sha3,267 Ether,0.8.11,1021
+CrypTicket,0xc2cfbd487fe9c42aa5a92c222261b1ad8fdfc6f1,sha3;,Commitment(Vector),sha3,0 Ether,0.8.7,41
+DeluxeGoatPublicSaleContract,0x9e4710a9745161Cd89a854ae8bfce2bC1C2B0398,sha3;,Commitment(Vector),sha3,0 Ether,0.8.12,249
+PendleMerkleDistributor,0x08c317D3F9D05B84cBA33876F1DbC7617954C2F0,sha3;,Commitment(Vector),sha3,0 Ether,0.7.6,3
+ERC721OrdersFeature,0x4aF649FFde640CEb34b1AfaBa3e0Bb8e9698cb01,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.6.12,1
+ProjectRadiance,0xA55F73DA180C176AB769E124A74933C5824C3615,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.12,65
+weathereport,0xd10ea170fCfd4d6f2c9FD7a596d7b0BA10A52648,sha3;,Commitment(Vector),sha3,0 Ether,0.8.0,3
+RubberDuckBathParty,0x7A4D1b54dD21ddE804c18B7a830B5Bc6e586a7F6,sha3;,Commitment(Vector),sha3,0 Ether,0.8.12,2
+AzukiApeSocialClub,0x813b5c4aE6b188F4581aa1dfdB7f4Aba44AA578B,sha3;,Commitment(Vector),sha3,3.6 Ether,0.8.7,85
+Nefturians,0x6Ff7b79dDd9E490Bc0bbcE64a1DC37e37a6E2D71,sha3;ecrecover;,Signature,ecdsa+sha3,59.4 Ether,0.8.11,337
+Nefturians,0x6Ff7b79dDd9E490Bc0bbcE64a1DC37e37a6E2D71,sha3;ecrecover;,Commitment(Vector),sha3,59.4 Ether,0.8.11,337
+Nefturians,0x6Ff7b79dDd9E490Bc0bbcE64a1DC37e37a6E2D71,sha3;ecrecover;,Message Digest,sha3,59.4 Ether,0.8.11,337
+CryptoShack,0x34997F9C19465eC01B7Ed2AB0E61E2a388702790,sha3;,Random Number Generator,sha3,0 Ether,0.8.7,4
+LpAccountV2,0x3EF9d849308fb714e9e87A9d9997e11a1118cFC9,sha3;,Message Digest,sha3,0 Ether,0.6.11,2
+ClayFriends,0xFDe881c7B76ad10B59a82247E1cD3CBAd0d739F3,sha3;,Commitment(Vector),sha3,0 Ether,0.8.11,2
+NamingConvention,0xa8184B4bFB97f6CC4868E13A9BDBa92C4931B927,sha3;ecrecover;sha2-256;,Signature,ecdsa+sha3,0 Ether,0.8.7,1
+Generator,0xc87F9D93feb408E0589051c06F88B6A269c3eC19,sha3;,Random Number Generator,sha3,0 Ether,0.8.9,1
+DEGENSwapPair,0x22157a7fd6f2a8ee8df4621b52b8febe83934714,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.5.16,3
+cybonixnft,0xf896Bf59f0C489b11EcD2Bf223148C1196A9e717,sha3;,Commitment(Vector),sha3,33.62 Ether,0.8.11,724
+VirtuousHourAirdrop,0x5Fc37a6Ae6Dd977bEBbeB2831eAd35BfB7263f76,sha3;,Commitment(Vector),sha3,0 Ether,0.8.9,87
+Hatchlingz,0x581616396252a34970b8f9944d854c5181b24de7,sha3;,Message Digest,sha3,0 Ether,0.8.12,9
+TheArityNFT,0xf26a035eb240de3624cf2d4071387e5be5f57f77,sha3;,Random Number Generator,sha3,76.175 Ether,0.8.0,112
+TokenERC1155,0x33524da1FB4BEBAF2C9046407a6944D6E16B460F,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.12,1
+FreshFools,0x40abc0be46decb904464c97ce0d804a839c70d60,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.7,2
+Burger,0x57309C9C1F537f1DAea3aBc0b6b54561a85B596E,sha3;,Message Digest,sha3,0 Ether,0.8.6,70
+Burger,0x57309C9C1F537f1DAea3aBc0b6b54561a85B596E,sha3;,Commitment(Vector),sha3,0 Ether,0.8.6,70
+Random,0x7EE7a675BC5343d6a7aCa50Fc47513f437eA994C,sha3;,Random Number Generator,sha3,0 Ether,0.8.9,1
+DaVinci,0x8c0ac3ce98dced91810f7b3c5b50791c8874c551,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.4,2389
+Lottery,0x71f0afd597d1d594b57dd01a090eb64378999ea4,sha3;,Random Number Generator,sha3,0 Ether,0.8.7,5
+FraktalNFT,0x8F3D19eFE7c9e7411EC8B14e02c2699b5F669628,sha3;,Solidity(Create2),sha3,0 Ether,0.8.4,1
+FraktalNFT,0x8F3D19eFE7c9e7411EC8B14e02c2699b5F669628,sha3;,Message Digest,sha3,0 Ether,0.8.4,1
+IBISChessclub,0x8bf4b0da05204aa64b7c145f02520b2da54b90db,sha3;,Random Number Generator,sha3,0 Ether,0.8.7,3
+IBISChessclub,0x8bf4b0da05204aa64b7c145f02520b2da54b90db,sha3;,Commitment(Vector),sha3,0 Ether,0.8.7,3
+KaijuKongz,0x582b874Af6A8D0eC283febE1988fb4A67c06e050,sha3;,Commitment(Vector),sha3,0 Ether,0.8.9,5380
+ESSENCE,0xddb149ae8e6635df01a530da1e46921bd78dc385,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.7,1921
+Staking,0xBD246BdE50bB60E9C7Aa49c38fe03E7D34Ad2137,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.7.6,1
+TheArtOfSeasons,0x5bd815Fd6c096bAB38B4C6553cfce3585194dff9,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.12,3
+ApolloxExchangeTreasury,0xb40eed68d7d6b3b6d6f4e93de6239b7c53efc786,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.13,4
+CyberCosmosWorld,0x80b745ada7c13cb420e0a2acbcbffa033a3b5164,sha3;,Commitment(Vector),sha3,0.02 Ether,0.8.5,7
+BlootComic,0xF12F0FD99e913fde707c449E488e67687ec1A7c4,sha3;,Commitment(Vector),sha3,0 Ether,0.8.9,1
+MissOCoolGirls,0xbF1f5B4a8c20E9ac8B5B37616F029444BC924D41,sha3;,Commitment(Vector),sha3,1.86 Ether,0.8.9,40
+WiredBeast,0x2910312A1e3e4cdf3c33dFBc88d1e1d7a22e2Bbf,sha3;,Commitment(Vector),sha3,15.35 Ether,0.8.9,152
+ConcaveToken,0x000000007a58f5f58e697e51ab0357bc9e260a04,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.11,525
+AkiStory,0xf97df1e168c27e22eedd34c05ae0615605c5dcbf,sha3;,Commitment(Vector),sha3,130.48000000000001862 Ether,0.8.9,1628
+HIRegistry,0x843b1f2f2d41828a68e8ef0c4c2c04713837f05c,sha3;,Message Digest,sha3,0 Ether,0.8.4,16
+KillaBears,0xc99c679C50033Bbc5321EB88752E89a93e9e83C5,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.0,3
+LMAdventurers,0xCA72feCc4BDb993650654A9881F2Be15a7875796,sha3;,Commitment(Vector),sha3,128.5200000000000002 Ether,0.8.4,1087
+SoulSplicers,0xfd4bfe64fea2ce11898c4b931afaf728778a90b4,sha3;,Commitment(Vector),sha3,106 Ether,0.8.7,1476
+LandAuction,0x9ed0F787223FF1FeB0cFB33a9207c646d182E918,sha3;ecrecover;,Signature,ecdsa+sha3,"1,403.08578766990130628 Ether",0.8.13,4367
+ContractManager,0xDA2918c2Fd86A97E09E555dE6Ca395F9414c1d94,sha3;,Message Digest,sha3,0 Ether,0.8.11,1
+Token,0x469DebD4b6574c77c658eb811202EC4D438AFD91,sha3;,Commitment(Vector),sha3,0 Ether,0.8.10,338
+Moonbirds,0x23581767a106ae21c074b2276D25e5C3e136a68b,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.11,7
+Pixelinterfaces,0xdDbDDcfdec729eE7013C3038482538C03D7C62Cb,sha3;,Commitment(Vector),sha3,0 Ether,0.8.11,2
+PrismBridge,0x3e387f099a15ae749dc18ad2e1238a73c9289019,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.7,1
+tinyfaces,0xb363af6181a4335608880510772a5f61a5183c88,sha3;,Commitment(Vector),sha3,0 Ether,0.8.7,6
+UrbanDogz,0xcD3718E5216bD5ad6A71fBaC30a5f9F0BA1e725c,sha3;,Commitment(Vector),sha3,12.28 Ether,0.8.8,91
+DustSweeper,0x78106f7db3EbCEe3D2CFAC647f0E4c9b06683B39,sha3;ecrecover;,Signature,ecdsa+sha3,0.000209763350167707 Ether,0.8.13,5
+AlphaHQ,0xD803B4357B3749b2fcCdCDf427BBBe18112A4A71,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.12,6
+MetaSquareNft,0x73dD4EF6AeB1C15EEf47e0Bc48D7e9531fa85220,sha3;,Commitment(Vector),sha3,0 Ether,0.8.9,1
+EtchedNFT,0x9e2ED21ba652022d00aFfe85AC3Bf7aDa7dc87a6,sha3;,Commitment(Vector),sha3,0 Ether,0.8.13,7
+MadMangaFOMOStone,0x3cab982c10ca41f1a1992815b9185375c472cedc,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.7,1
+MerkleClaimERC20,0xa73a6462af0b63bcd249a9f9bda588096a87a59b,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.7,4
+MerkleClaimERC20,0xa73a6462af0b63bcd249a9f9bda588096a87a59b,sha3;ecrecover;,Commitment(Vector),sha3,0 Ether,0.8.7,4
+NFTXStakingZap,0xdc774d5260ec66e5dd4627e1dd800eff3911345c,sha3;,Solidity(Create2),sha3,0 Ether,0.8.4,3
+NohowSquad,0x76A9c69C6491Ca42af9FeE3baa5A5de6d1eeFbe4,sha3;,Commitment(Vector),sha3,6.12 Ether,0.8.7,42
+ForeverBots,0x430bb202bef7a2d067cd3851b681edfa78d04ee2,sha3;,Commitment(Vector),sha3,0 Ether,0.8.7,3
+DawsWorld,0x86c7e85F292181A54100a7a438fE00df174276D6,sha3;,Commitment(Vector),sha3,0 Ether,0.8.7,1
+Boneheadz,0x010a45801ee731e016aaaa68ee570b9950be0e37,sha3;,Commitment(Vector),sha3,0 Ether,0.8.13,2
+TheCryptomasksProject,0xB45D21DC0c1cf275F790B668c3ae09Ac5677B740,sha3;,Random Number Generator,sha3,0 Ether,0.8.13,33
+TheCryptomasksProject,0xB45D21DC0c1cf275F790B668c3ae09Ac5677B740,sha3;,Commitment(Vector),sha3,0 Ether,0.8.13,33
+DickheadsClub,0xef4Dd4ea7FAafb912D93236A79981A3F56fe2F15,sha3;,Commitment(Vector),sha3,0 Ether,0.8.4,2
+TombRaid,0x6bf3493b0c9be88ec087cffb084b2801c58a4f11,sha3;,Random Number Generator,sha3,10.585 Ether,0.8.13,2280
+PandaClaim,0x8f775b85481146D88ced819F95B44c38F333617B,sha3;,Commitment(Vector),sha3,0 Ether,0.8.6,4
+NFTStaking,0x6DffB6415c96EC393Bf018fB824934d7b5B637a0,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.9,3
+NFTStaking,0x6DffB6415c96EC393Bf018fB824934d7b5B637a0,sha3;ecrecover;,Commitment(Vector),sha3,0 Ether,0.8.9,3
+RealVisionProCryptoGenesis,0x76236B6f13F687D0bbeDbbCe0e30e9F07d071C1C,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.13,3
+RealVisionProCryptoGenesis,0x76236B6f13F687D0bbeDbbCe0e30e9F07d071C1C,sha3;ecrecover;,Message Digest,sha3,0 Ether,0.8.13,3
+UASISCorp,0x22d8D30D75510f442980F41A54af7b6c52dbf8D7,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.4,90
+AccessControlledOffchainAggregator,0x381336FF72eDBEE5ec8B8C52480bAc5D658d514a,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.7.6,3
+LDRToken,0xFD43D1dA000558473822302e1d44D81dA2e4cC0d,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.13,37
+KithFriendsMinter,0xCA2f620557C98DF4a9A11d056A516Ad65fe90134,sha3;,Commitment(Vector),sha3,250.5 Ether,0.8.9,426
+Buzzies,0x2308742AA28CC460522fF855d24A365f99DeBA7b,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.13,2056
+BLONKSmain,0x7f463b874eC264dC7BD8C780f5790b4Fc371F11f,sha3;,Random Number Generator,sha3,0 Ether,0.8.7,8
+FoldedFaces,0xf01DfAC37DD149Cb686E05d06cd21930B011F10F,sha3;,Random Number Generator,sha3,0 Ether,0.8.7,13
+FoldedFaces,0xf01DfAC37DD149Cb686E05d06cd21930B011F10F,sha3;,Commitment(Vector),sha3,0 Ether,0.8.7,13
+HapeWives,0x30856ac72435c4a741a307a07c3b700c04f2dcc4,sha3;,Commitment(Vector),sha3,39.5 Ether,0.8.7,445
+ICHIVault,0x683F081DBC729dbD34AbaC708Fa0B390d49F1c39,sha3;,Solidity(Create2),sha3,0 Ether,0.7.6,12
+ICHIVault,0x683F081DBC729dbD34AbaC708Fa0B390d49F1c39,sha3;,Message Digest,sha3,0 Ether,0.7.6,12
+FenixLabsPass,0xf02EDAdfe0ccf03d59A70d621D2DAE8984a0B672,sha3;,Commitment(Vector),sha3,0 Ether,0.8.7,4
+MarginEngine,0x10bF33cBddDcFCA2C2D8cCF3D339ac34215f6375,sha3;,Message Digest,sha3,0 Ether,0.8.9,1
+FluffyFucksV3,0x649b415dad8acc3571fbcbb5d174c94271ea71ce,sha3;,Commitment(Vector),sha3,0 Ether,0.8.13,7
+ForTheCulture,0x2e541cec5cb41e7678ac3c8e91acb3fc1db0da07,sha3;,Commitment(Vector),sha3,25.404404933712031598 Ether,0.8.4,7907
+StandardVerifier,0x07528C46A34d16E4FB7Cfa9Db7333C521bEc8eA2,sha3;modexp;ecadd;ecmul;ecpairing;,Zero knowledge Proof,Plonk,0 Ether,0.8.10,1
+MerkleAirdrop,0x1E06B4E9309F5e664B19a5179966ba5Dbd903Bec,sha3;,Commitment(Vector),sha3,0 Ether,0.8.2,548
+MetaBucks2,0xB6bd46621C3085b7882937A84016BE949B6FdD8C,sha3;ecrecover;,Commitment(Vector),sha3,0 Ether,0.8.14,3
+MetaBucks2,0xB6bd46621C3085b7882937A84016BE949B6FdD8C,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.14,3
+Dialoger,0xaed3311bbdea39956c8b02ef01b30bb9719e63f6,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.11,150
+ParallaxGenesis,0xEecd1C042C378676ee1985dd66481b2589a809F9,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.10,5
+CloudyMe,0x3738f608b685320ea3f41254a5e0ca0dc4624617,sha3;ecrecover;,Message Digest,sha3,1.9085 Ether,0.8.7,3388
+CloudyMe,0x3738f608b685320ea3f41254a5e0ca0dc4624617,sha3;ecrecover;,Signature,ecdsa+sha3,1.9085 Ether,0.8.7,3388
+MetaAngelsAdobeAir,0x9B6dB880376D0dbbcADEA88f7C9baC253B2308c5,sha3;ecrecover;,Signature,ecdsa+sha3,0 Ether,0.8.12,100
+MetaAngelsAdobeAir,0x9B6dB880376D0dbbcADEA88f7C9baC253B2308c5,sha3;ecrecover;,Commitment(Vector),sha3,0 Ether,0.8.12,100
